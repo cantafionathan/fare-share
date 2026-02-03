@@ -1,0 +1,3182 @@
+date,region,confirmed,deaths
+2020-01-31,Vancouver (BC),1,0
+2020-02-01,Vancouver (BC),1,0
+2020-02-08,Vancouver (BC),4,0
+2020-02-15,Vancouver (BC),4,0
+2020-02-16,Vancouver (BC),5,0
+2020-02-21,Vancouver (BC),6,0
+2020-02-22,Vancouver (BC),6,0
+2020-02-24,Vancouver (BC),6,0
+2020-02-25,Vancouver (BC),7,0
+2020-02-26,Vancouver (BC),7,0
+2020-02-27,Vancouver (BC),7,0
+2020-02-28,Seattle (King Co),1,0
+2020-02-29,Seattle (King Co),4,1
+2020-02-29,Vancouver (BC),7,0
+2020-03-01,Seattle (King Co),11,3
+2020-03-01,Vancouver (BC),8,0
+2020-03-02,Seattle (King Co),15,6
+2020-03-03,Seattle (King Co),22,10
+2020-03-03,Vancouver (BC),12,0
+2020-03-04,Seattle (King Co),33,11
+2020-03-05,Seattle (King Co),52,11
+2020-03-05,Vancouver (BC),21,0
+2020-03-06,Seattle (King Co),59,12
+2020-03-06,Vancouver (BC),21,0
+2020-03-07,Seattle (King Co),72,16
+2020-03-07,Vancouver (BC),27,0
+2020-03-08,Seattle (King Co),91,18
+2020-03-08,Vancouver (BC),27,1
+2020-03-09,Seattle (King Co),117,21
+2020-03-09,Vancouver (BC),32,1
+2020-03-10,Portland (Multnomah Co),1,0
+2020-03-10,Seattle (King Co),191,23
+2020-03-11,Portland (Multnomah Co),1,0
+2020-03-11,Seattle (King Co),235,27
+2020-03-11,Vancouver (BC),39,1
+2020-03-12,Portland (Multnomah Co),1,0
+2020-03-12,Seattle (King Co),271,28
+2020-03-12,Vancouver (BC),46,1
+2020-03-13,Portland (Multnomah Co),1,0
+2020-03-13,Seattle (King Co),329,33
+2020-03-13,Vancouver (BC),53,1
+2020-03-14,Portland (Multnomah Co),1,1
+2020-03-14,Seattle (King Co),389,36
+2020-03-14,Vancouver (BC),64,1
+2020-03-15,Portland (Multnomah Co),1,1
+2020-03-15,Seattle (King Co),421,38
+2020-03-15,Vancouver (BC),73,1
+2020-03-16,Portland (Multnomah Co),2,1
+2020-03-16,Seattle (King Co),489,44
+2020-03-16,Vancouver (BC),73,4
+2020-03-17,Portland (Multnomah Co),3,1
+2020-03-17,Seattle (King Co),518,47
+2020-03-17,Vancouver (BC),103,7
+2020-03-18,Portland (Multnomah Co),3,1
+2020-03-18,Seattle (King Co),563,57
+2020-03-18,Vancouver (BC),186,7
+2020-03-19,Portland (Multnomah Co),7,1
+2020-03-19,Seattle (King Co),693,61
+2020-03-19,Vancouver (BC),271,8
+2020-03-20,Portland (Multnomah Co),12,1
+2020-03-20,Seattle (King Co),794,68
+2020-03-20,Vancouver (BC),271,9
+2020-03-21,Portland (Multnomah Co),18,1
+2020-03-21,Seattle (King Co),935,76
+2020-03-21,Vancouver (BC),424,10
+2020-03-22,Portland (Multnomah Co),19,1
+2020-03-22,Seattle (King Co),1036,77
+2020-03-22,Vancouver (BC),424,10
+2020-03-23,Portland (Multnomah Co),21,1
+2020-03-23,Seattle (King Co),1166,88
+2020-03-23,Vancouver (BC),472,13
+2020-03-24,Portland (Multnomah Co),25,2
+2020-03-24,Seattle (King Co),1278,95
+2020-03-24,Vancouver (BC),617,13
+2020-03-25,Portland (Multnomah Co),33,2
+2020-03-25,Seattle (King Co),1360,101
+2020-03-25,Vancouver (BC),659,14
+2020-03-26,Portland (Multnomah Co),45,2
+2020-03-26,Seattle (King Co),1579,111
+2020-03-26,Vancouver (BC),725,14
+2020-03-27,Portland (Multnomah Co),67,2
+2020-03-27,Seattle (King Co),1830,127
+2020-03-27,Vancouver (BC),725,14
+2020-03-28,Portland (Multnomah Co),81,2
+2020-03-28,Seattle (King Co),2079,138
+2020-03-28,Vancouver (BC),884,16
+2020-03-29,Portland (Multnomah Co),91,2
+2020-03-29,Seattle (King Co),2163,146
+2020-03-29,Vancouver (BC),884,17
+2020-03-30,Portland (Multnomah Co),100,2
+2020-03-30,Seattle (King Co),2332,152
+2020-03-30,Vancouver (BC),960,19
+2020-03-31,Portland (Multnomah Co),116,2
+2020-03-31,Seattle (King Co),2332,152
+2020-03-31,Vancouver (BC),970,19
+2020-04-01,Portland (Multnomah Co),134,3
+2020-04-01,Seattle (King Co),2498,166
+2020-04-01,Vancouver (BC),1066,25
+2020-04-02,Portland (Multnomah Co),160,3
+2020-04-02,Seattle (King Co),2658,177
+2020-04-02,Vancouver (BC),1121,31
+2020-04-03,Portland (Multnomah Co),175,3
+2020-04-03,Seattle (King Co),2789,188
+2020-04-03,Vancouver (BC),1174,35
+2020-04-04,Portland (Multnomah Co),209,6
+2020-04-04,Seattle (King Co),2900,204
+2020-04-04,Vancouver (BC),1203,38
+2020-04-05,Portland (Multnomah Co),233,7
+2020-04-05,Seattle (King Co),3169,210
+2020-04-05,Vancouver (BC),1203,38
+2020-04-06,Portland (Multnomah Co),243,7
+2020-04-06,Seattle (King Co),3333,224
+2020-04-06,Vancouver (BC),1266,39
+2020-04-07,Portland (Multnomah Co),258,7
+2020-04-07,Seattle (King Co),3488,232
+2020-04-07,Vancouver (BC),1291,43
+2020-04-08,Portland (Multnomah Co),286,10
+2020-04-08,Seattle (King Co),3690,246
+2020-04-08,Vancouver (BC),1336,48
+2020-04-09,Portland (Multnomah Co),302,13
+2020-04-09,Seattle (King Co),3888,260
+2020-04-09,Vancouver (BC),1370,50
+2020-04-10,Portland (Multnomah Co),317,17
+2020-04-10,Seattle (King Co),4119,279
+2020-04-10,Vancouver (BC),1410,55
+2020-04-11,Portland (Multnomah Co),343,18
+2020-04-11,Seattle (King Co),4264,286
+2020-04-11,Vancouver (BC),1445,58
+2020-04-12,Portland (Multnomah Co),374,19
+2020-04-12,Seattle (King Co),4428,294
+2020-04-12,Vancouver (BC),1445,58
+2020-04-13,Portland (Multnomah Co),398,19
+2020-04-13,Seattle (King Co),4551,298
+2020-04-13,Vancouver (BC),1490,69
+2020-04-14,Portland (Multnomah Co),420,20
+2020-04-14,Seattle (King Co),4622,305
+2020-04-14,Vancouver (BC),1517,72
+2020-04-15,Portland (Multnomah Co),430,22
+2020-04-15,Seattle (King Co),4699,314
+2020-04-15,Vancouver (BC),1561,75
+2020-04-16,Portland (Multnomah Co),448,26
+2020-04-16,Seattle (King Co),4811,322
+2020-04-16,Vancouver (BC),1561,75
+2020-04-17,Portland (Multnomah Co),467,28
+2020-04-17,Seattle (King Co),4904,333
+2020-04-17,Vancouver (BC),1575,77
+2020-04-18,Portland (Multnomah Co),493,28
+2020-04-18,Seattle (King Co),5065,342
+2020-04-18,Vancouver (BC),1618,78
+2020-04-19,Portland (Multnomah Co),514,28
+2020-04-19,Seattle (King Co),5174,348
+2020-04-19,Vancouver (BC),1618,78
+2020-04-20,Portland (Multnomah Co),520,28
+2020-04-20,Seattle (King Co),5295,362
+2020-04-20,Vancouver (BC),1699,86
+2020-04-21,Portland (Multnomah Co),542,29
+2020-04-21,Seattle (King Co),5381,374
+2020-04-21,Vancouver (BC),1724,87
+2020-04-22,Portland (Multnomah Co),566,29
+2020-04-22,Seattle (King Co),5451,381
+2020-04-22,Vancouver (BC),1795,90
+2020-04-23,Portland (Multnomah Co),582,33
+2020-04-23,Seattle (King Co),5571,386
+2020-04-23,Vancouver (BC),1824,94
+2020-04-24,Portland (Multnomah Co),596,35
+2020-04-24,Seattle (King Co),5691,393
+2020-04-24,Vancouver (BC),1853,98
+2020-04-25,Portland (Multnomah Co),623,35
+2020-04-25,Seattle (King Co),5813,401
+2020-04-25,Vancouver (BC),1948,100
+2020-04-26,Portland (Multnomah Co),652,37
+2020-04-26,Seattle (King Co),5914,410
+2020-04-26,Vancouver (BC),1948,100
+2020-04-27,Portland (Multnomah Co),664,37
+2020-04-27,Seattle (King Co),5992,418
+2020-04-27,Vancouver (BC),1998,103
+2020-04-28,Portland (Multnomah Co),677,40
+2020-04-28,Seattle (King Co),6056,429
+2020-04-28,Vancouver (BC),2053,105
+2020-04-29,Portland (Multnomah Co),696,42
+2020-04-29,Seattle (King Co),6184,438
+2020-04-29,Vancouver (BC),2087,109
+2020-04-30,Portland (Multnomah Co),707,43
+2020-04-30,Seattle (King Co),6310,448
+2020-04-30,Vancouver (BC),2112,111
+2020-05-01,Portland (Multnomah Co),720,44
+2020-05-01,Seattle (King Co),6409,451
+2020-05-01,Vancouver (BC),2145,112
+2020-05-02,Portland (Multnomah Co),734,46
+2020-05-02,Seattle (King Co),6507,456
+2020-05-02,Vancouver (BC),2171,114
+2020-05-03,Portland (Multnomah Co),739,46
+2020-05-03,Seattle (King Co),6620,461
+2020-05-03,Vancouver (BC),2171,114
+2020-05-04,Portland (Multnomah Co),754,46
+2020-05-04,Seattle (King Co),6584,465
+2020-05-04,Vancouver (BC),2224,117
+2020-05-05,Portland (Multnomah Co),769,49
+2020-05-05,Seattle (King Co),6655,471
+2020-05-05,Vancouver (BC),2232,121
+2020-05-06,Portland (Multnomah Co),793,50
+2020-05-06,Seattle (King Co),6772,476
+2020-05-06,Vancouver (BC),2255,124
+2020-05-07,Portland (Multnomah Co),809,52
+2020-05-07,Seattle (King Co),6865,482
+2020-05-07,Vancouver (BC),2288,126
+2020-05-08,Portland (Multnomah Co),839,52
+2020-05-08,Seattle (King Co),6942,487
+2020-05-08,Vancouver (BC),2315,127
+2020-05-09,Portland (Multnomah Co),863,53
+2020-05-09,Seattle (King Co),7002,492
+2020-05-09,Vancouver (BC),2330,129
+2020-05-10,Portland (Multnomah Co),885,53
+2020-05-10,Seattle (King Co),7048,502
+2020-05-10,Vancouver (BC),2330,129
+2020-05-11,Portland (Multnomah Co),899,53
+2020-05-11,Seattle (King Co),7117,507
+2020-05-11,Vancouver (BC),2353,130
+2020-05-12,Portland (Multnomah Co),908,53
+2020-05-12,Seattle (King Co),7181,513
+2020-05-12,Vancouver (BC),2360,131
+2020-05-13,Portland (Multnomah Co),921,53
+2020-05-13,Seattle (King Co),7223,516
+2020-05-13,Vancouver (BC),2376,132
+2020-05-14,Portland (Multnomah Co),940,55
+2020-05-14,Seattle (King Co),7309,516
+2020-05-14,Vancouver (BC),2392,135
+2020-05-15,Portland (Multnomah Co),957,55
+2020-05-15,Seattle (King Co),7362,523
+2020-05-15,Vancouver (BC),2407,140
+2020-05-16,Portland (Multnomah Co),979,55
+2020-05-16,Seattle (King Co),7442,528
+2020-05-16,Vancouver (BC),2428,141
+2020-05-17,Portland (Multnomah Co),984,55
+2020-05-17,Seattle (King Co),7482,529
+2020-05-17,Vancouver (BC),2428,141
+2020-05-18,Portland (Multnomah Co),996,55
+2020-05-18,Seattle (King Co),7531,530
+2020-05-18,Vancouver (BC),2444,143
+2020-05-19,Portland (Multnomah Co),1005,55
+2020-05-19,Seattle (King Co),7584,536
+2020-05-19,Vancouver (BC),2446,146
+2020-05-20,Portland (Multnomah Co),1018,57
+2020-05-20,Seattle (King Co),7619,536
+2020-05-20,Vancouver (BC),2467,149
+2020-05-21,Portland (Multnomah Co),1026,57
+2020-05-21,Seattle (King Co),7647,541
+2020-05-21,Vancouver (BC),2479,152
+2020-05-22,Portland (Multnomah Co),1037,58
+2020-05-22,Seattle (King Co),7699,544
+2020-05-22,Vancouver (BC),2507,155
+2020-05-23,Portland (Multnomah Co),1037,58
+2020-05-23,Seattle (King Co),7766,544
+2020-05-23,Vancouver (BC),2517,157
+2020-05-24,Portland (Multnomah Co),1040,58
+2020-05-24,Seattle (King Co),7821,549
+2020-05-24,Vancouver (BC),2517,157
+2020-05-25,Portland (Multnomah Co),1045,58
+2020-05-25,Seattle (King Co),7881,552
+2020-05-25,Vancouver (BC),2530,161
+2020-05-26,Portland (Multnomah Co),1052,58
+2020-05-26,Seattle (King Co),7898,554
+2020-05-26,Vancouver (BC),2541,161
+2020-05-27,Portland (Multnomah Co),1093,58
+2020-05-27,Seattle (King Co),7933,561
+2020-05-27,Vancouver (BC),2550,162
+2020-05-28,Portland (Multnomah Co),1103,59
+2020-05-28,Seattle (King Co),7988,564
+2020-05-28,Vancouver (BC),2558,164
+2020-05-29,Portland (Multnomah Co),1121,59
+2020-05-29,Seattle (King Co),8008,566
+2020-05-29,Vancouver (BC),2562,164
+2020-05-30,Portland (Multnomah Co),1142,59
+2020-05-30,Seattle (King Co),8056,569
+2020-05-30,Vancouver (BC),2573,164
+2020-05-31,Portland (Multnomah Co),1165,59
+2020-05-31,Seattle (King Co),8161,569
+2020-05-31,Vancouver (BC),2573,164
+2020-06-01,Portland (Multnomah Co),1171,59
+2020-06-01,Seattle (King Co),8194,571
+2020-06-01,Vancouver (BC),2597,165
+2020-06-02,Portland (Multnomah Co),1181,61
+2020-06-02,Seattle (King Co),8237,572
+2020-06-02,Vancouver (BC),2601,165
+2020-06-03,Portland (Multnomah Co),1194,62
+2020-06-03,Seattle (King Co),8279,575
+2020-06-03,Vancouver (BC),2623,166
+2020-06-04,Portland (Multnomah Co),1224,62
+2020-06-04,Seattle (King Co),8335,576
+2020-06-04,Vancouver (BC),2632,166
+2020-06-05,Portland (Multnomah Co),1240,63
+2020-06-05,Seattle (King Co),8398,578
+2020-06-05,Vancouver (BC),2632,167
+2020-06-06,Portland (Multnomah Co),1268,65
+2020-06-06,Seattle (King Co),8419,578
+2020-06-06,Vancouver (BC),2632,167
+2020-06-07,Portland (Multnomah Co),1286,65
+2020-06-07,Seattle (King Co),8467,580
+2020-06-07,Vancouver (BC),2632,167
+2020-06-08,Portland (Multnomah Co),1302,65
+2020-06-08,Seattle (King Co),8509,581
+2020-06-08,Vancouver (BC),2659,167
+2020-06-09,Portland (Multnomah Co),1337,66
+2020-06-09,Seattle (King Co),8538,582
+2020-06-09,Vancouver (BC),2669,167
+2020-06-10,Portland (Multnomah Co),1369,66
+2020-06-10,Seattle (King Co),8561,582
+2020-06-10,Vancouver (BC),2680,167
+2020-06-11,Portland (Multnomah Co),1407,66
+2020-06-11,Seattle (King Co),8586,585
+2020-06-11,Vancouver (BC),2694,167
+2020-06-12,Portland (Multnomah Co),1443,67
+2020-06-12,Seattle (King Co),8646,588
+2020-06-12,Vancouver (BC),2709,168
+2020-06-13,Portland (Multnomah Co),1490,67
+2020-06-13,Seattle (King Co),8702,593
+2020-06-13,Vancouver (BC),2709,168
+2020-06-14,Portland (Multnomah Co),1522,68
+2020-06-14,Seattle (King Co),8753,593
+2020-06-14,Vancouver (BC),2709,168
+2020-06-15,Portland (Multnomah Co),1559,68
+2020-06-15,Seattle (King Co),8799,594
+2020-06-15,Vancouver (BC),2745,168
+2020-06-16,Portland (Multnomah Co),1601,68
+2020-06-16,Seattle (King Co),8857,597
+2020-06-16,Vancouver (BC),2756,168
+2020-06-17,Portland (Multnomah Co),1635,68
+2020-06-17,Seattle (King Co),8895,593
+2020-06-17,Vancouver (BC),2775,168
+2020-06-18,Portland (Multnomah Co),1668,68
+2020-06-18,Seattle (King Co),8989,599
+2020-06-18,Vancouver (BC),2783,168
+2020-06-19,Portland (Multnomah Co),1717,68
+2020-06-19,Seattle (King Co),9098,602
+2020-06-19,Vancouver (BC),2790,168
+2020-06-20,Portland (Multnomah Co),1751,68
+2020-06-20,Seattle (King Co),9167,603
+2020-06-20,Vancouver (BC),2790,168
+2020-06-21,Portland (Multnomah Co),1835,68
+2020-06-21,Seattle (King Co),9236,602
+2020-06-21,Vancouver (BC),2790,168
+2020-06-22,Portland (Multnomah Co),1852,68
+2020-06-22,Seattle (King Co),9275,604
+2020-06-22,Vancouver (BC),2822,169
+2020-06-23,Portland (Multnomah Co),1896,68
+2020-06-23,Seattle (King Co),9371,606
+2020-06-23,Vancouver (BC),2835,170
+2020-06-24,Portland (Multnomah Co),1941,68
+2020-06-24,Seattle (King Co),9504,606
+2020-06-24,Vancouver (BC),2849,171
+2020-06-25,Portland (Multnomah Co),1970,70
+2020-06-25,Seattle (King Co),9614,608
+2020-06-25,Vancouver (BC),2869,173
+2020-06-26,Portland (Multnomah Co),2092,70
+2020-06-26,Seattle (King Co),9697,609
+2020-06-26,Vancouver (BC),2878,174
+2020-06-27,Portland (Multnomah Co),2090,71
+2020-06-27,Seattle (King Co),9821,612
+2020-06-27,Vancouver (BC),2878,174
+2020-06-28,Portland (Multnomah Co),2142,71
+2020-06-28,Seattle (King Co),9903,612
+2020-06-28,Vancouver (BC),2878,174
+2020-06-29,Portland (Multnomah Co),2171,71
+2020-06-29,Seattle (King Co),10071,612
+2020-06-29,Vancouver (BC),2904,174
+2020-06-30,Portland (Multnomah Co),2205,71
+2020-06-30,Seattle (King Co),10198,612
+2020-06-30,Vancouver (BC),2916,174
+2020-07-01,Portland (Multnomah Co),2242,71
+2020-07-01,Seattle (King Co),10358,614
+2020-07-01,Vancouver (BC),2916,174
+2020-07-02,Portland (Multnomah Co),2304,71
+2020-07-02,Seattle (King Co),10598,617
+2020-07-02,Vancouver (BC),2940,177
+2020-07-03,Portland (Multnomah Co),2364,72
+2020-07-03,Seattle (King Co),10721,620
+2020-07-03,Vancouver (BC),2947,177
+2020-07-04,Portland (Multnomah Co),2420,72
+2020-07-04,Seattle (King Co),10786,621
+2020-07-04,Vancouver (BC),2947,177
+2020-07-05,Portland (Multnomah Co),2491,72
+2020-07-05,Seattle (King Co),11016,622
+2020-07-05,Vancouver (BC),2947,177
+2020-07-06,Portland (Multnomah Co),2532,72
+2020-07-06,Seattle (King Co),11142,624
+2020-07-06,Vancouver (BC),2978,183
+2020-07-07,Portland (Multnomah Co),2583,73
+2020-07-07,Seattle (King Co),11208,628
+2020-07-07,Vancouver (BC),2990,183
+2020-07-08,Portland (Multnomah Co),2611,75
+2020-07-08,Seattle (King Co),11321,630
+2020-07-08,Vancouver (BC),3008,186
+2020-07-09,Portland (Multnomah Co),2697,75
+2020-07-09,Seattle (King Co),11488,634
+2020-07-09,Vancouver (BC),3028,186
+2020-07-10,Portland (Multnomah Co),2730,75
+2020-07-10,Seattle (King Co),11634,635
+2020-07-10,Vancouver (BC),3053,187
+2020-07-11,Portland (Multnomah Co),2824,75
+2020-07-11,Seattle (King Co),11773,635
+2020-07-11,Vancouver (BC),3053,187
+2020-07-12,Portland (Multnomah Co),2888,75
+2020-07-12,Seattle (King Co),11947,639
+2020-07-12,Vancouver (BC),3053,187
+2020-07-13,Portland (Multnomah Co),2966,75
+2020-07-13,Seattle (King Co),12101,639
+2020-07-13,Vancouver (BC),3115,189
+2020-07-14,Portland (Multnomah Co),3042,75
+2020-07-14,Seattle (King Co),12246,645
+2020-07-14,Vancouver (BC),3128,189
+2020-07-15,Portland (Multnomah Co),3100,75
+2020-07-15,Seattle (King Co),12355,651
+2020-07-15,Vancouver (BC),3149,189
+2020-07-16,Portland (Multnomah Co),3205,75
+2020-07-16,Seattle (King Co),12594,652
+2020-07-16,Vancouver (BC),3170,189
+2020-07-17,Portland (Multnomah Co),3290,76
+2020-07-17,Seattle (King Co),12809,652
+2020-07-17,Vancouver (BC),3198,189
+2020-07-18,Portland (Multnomah Co),3374,76
+2020-07-18,Seattle (King Co),12993,658
+2020-07-18,Vancouver (BC),3198,189
+2020-07-19,Portland (Multnomah Co),3491,77
+2020-07-19,Seattle (King Co),13161,656
+2020-07-19,Vancouver (BC),3198,189
+2020-07-20,Portland (Multnomah Co),3571,77
+2020-07-20,Seattle (King Co),13341,657
+2020-07-20,Vancouver (BC),3300,189
+2020-07-21,Portland (Multnomah Co),3636,78
+2020-07-21,Seattle (King Co),13488,659
+2020-07-21,Vancouver (BC),3328,189
+2020-07-22,Portland (Multnomah Co),3683,78
+2020-07-22,Seattle (King Co),13661,659
+2020-07-22,Vancouver (BC),3362,189
+2020-07-23,Portland (Multnomah Co),3748,78
+2020-07-23,Seattle (King Co),13837,659
+2020-07-23,Vancouver (BC),3392,190
+2020-07-24,Portland (Multnomah Co),3818,80
+2020-07-24,Seattle (King Co),14066,662
+2020-07-24,Vancouver (BC),3419,191
+2020-07-25,Portland (Multnomah Co),3883,81
+2020-07-25,Seattle (King Co),14274,663
+2020-07-25,Vancouver (BC),3419,191
+2020-07-26,Portland (Multnomah Co),3926,84
+2020-07-26,Seattle (King Co),14452,663
+2020-07-26,Vancouver (BC),3419,191
+2020-07-27,Portland (Multnomah Co),4039,82
+2020-07-27,Seattle (King Co),14638,664
+2020-07-27,Vancouver (BC),3500,193
+2020-07-28,Portland (Multnomah Co),4115,84
+2020-07-28,Seattle (King Co),14748,667
+2020-07-28,Vancouver (BC),3523,194
+2020-07-29,Portland (Multnomah Co),4201,89
+2020-07-29,Seattle (King Co),14898,667
+2020-07-29,Vancouver (BC),3562,194
+2020-07-30,Portland (Multnomah Co),4260,92
+2020-07-30,Seattle (King Co),15058,668
+2020-07-30,Vancouver (BC),3591,194
+2020-07-31,Portland (Multnomah Co),4335,94
+2020-07-31,Seattle (King Co),15216,668
+2020-07-31,Vancouver (BC),3641,195
+2020-08-01,Portland (Multnomah Co),4403,94
+2020-08-01,Seattle (King Co),15418,674
+2020-08-01,Vancouver (BC),3641,195
+2020-08-02,Portland (Multnomah Co),4450,95
+2020-08-02,Seattle (King Co),15529,676
+2020-08-02,Vancouver (BC),3641,195
+2020-08-03,Portland (Multnomah Co),4497,95
+2020-08-03,Seattle (King Co),15653,677
+2020-08-03,Vancouver (BC),3641,195
+2020-08-04,Portland (Multnomah Co),4553,95
+2020-08-04,Seattle (King Co),15798,678
+2020-08-04,Vancouver (BC),3787,195
+2020-08-05,Portland (Multnomah Co),4608,95
+2020-08-05,Seattle (King Co),15965,678
+2020-08-05,Vancouver (BC),3834,195
+2020-08-06,Portland (Multnomah Co),4653,95
+2020-08-06,Seattle (King Co),16157,682
+2020-08-06,Vancouver (BC),3881,195
+2020-08-07,Portland (Multnomah Co),4762,95
+2020-08-07,Seattle (King Co),16291,689
+2020-08-07,Vancouver (BC),3934,195
+2020-08-08,Portland (Multnomah Co),4849,96
+2020-08-08,Seattle (King Co),16491,694
+2020-08-08,Vancouver (BC),3934,195
+2020-08-09,Portland (Multnomah Co),4917,97
+2020-08-09,Seattle (King Co),16620,693
+2020-08-09,Vancouver (BC),3934,195
+2020-08-10,Portland (Multnomah Co),4960,98
+2020-08-10,Seattle (King Co),16768,695
+2020-08-10,Vancouver (BC),4065,195
+2020-08-11,Portland (Multnomah Co),5014,100
+2020-08-11,Seattle (King Co),16849,698
+2020-08-11,Vancouver (BC),4111,195
+2020-08-12,Portland (Multnomah Co),5056,100
+2020-08-12,Seattle (King Co),16998,699
+2020-08-12,Vancouver (BC),4196,196
+2020-08-13,Portland (Multnomah Co),5135,103
+2020-08-13,Seattle (King Co),17223,705
+2020-08-13,Vancouver (BC),4274,196
+2020-08-14,Portland (Multnomah Co),5186,103
+2020-08-14,Seattle (King Co),17359,705
+2020-08-14,Vancouver (BC),4358,196
+2020-08-15,Portland (Multnomah Co),5264,103
+2020-08-15,Seattle (King Co),17533,708
+2020-08-15,Vancouver (BC),4358,196
+2020-08-16,Portland (Multnomah Co),5330,103
+2020-08-16,Seattle (King Co),17662,713
+2020-08-16,Vancouver (BC),4358,196
+2020-08-17,Portland (Multnomah Co),5387,104
+2020-08-17,Seattle (King Co),17843,713
+2020-08-17,Vancouver (BC),4594,198
+2020-08-18,Portland (Multnomah Co),5410,104
+2020-08-18,Seattle (King Co),18008,717
+2020-08-18,Vancouver (BC),4677,198
+2020-08-19,Portland (Multnomah Co),5448,108
+2020-08-19,Seattle (King Co),18149,720
+2020-08-19,Vancouver (BC),4745,198
+2020-08-20,Portland (Multnomah Co),5505,108
+2020-08-20,Seattle (King Co),18332,726
+2020-08-20,Vancouver (BC),4825,200
+2020-08-21,Portland (Multnomah Co),5543,112
+2020-08-21,Seattle (King Co),18437,729
+2020-08-21,Vancouver (BC),4915,202
+2020-08-22,Portland (Multnomah Co),5597,112
+2020-08-22,Seattle (King Co),18589,731
+2020-08-22,Vancouver (BC),4915,202
+2020-08-23,Portland (Multnomah Co),5661,112
+2020-08-23,Seattle (King Co),18697,732
+2020-08-23,Vancouver (BC),4915,202
+2020-08-24,Portland (Multnomah Co),5718,115
+2020-08-24,Seattle (King Co),18843,735
+2020-08-24,Vancouver (BC),5184,203
+2020-08-25,Portland (Multnomah Co),5761,115
+2020-08-25,Seattle (King Co),18896,734
+2020-08-25,Vancouver (BC),5242,203
+2020-08-26,Portland (Multnomah Co),5810,115
+2020-08-26,Seattle (King Co),19068,738
+2020-08-26,Vancouver (BC),5304,203
+2020-08-27,Portland (Multnomah Co),5833,115
+2020-08-27,Seattle (King Co),19196,741
+2020-08-27,Vancouver (BC),5372,204
+2020-08-28,Portland (Multnomah Co),5902,122
+2020-08-28,Seattle (King Co),19380,742
+2020-08-28,Vancouver (BC),5496,204
+2020-08-29,Portland (Multnomah Co),5942,122
+2020-08-29,Seattle (King Co),19499,742
+2020-08-29,Vancouver (BC),5496,204
+2020-08-30,Portland (Multnomah Co),5975,122
+2020-08-30,Seattle (King Co),19573,742
+2020-08-30,Vancouver (BC),5496,204
+2020-08-31,Portland (Multnomah Co),6007,122
+2020-08-31,Seattle (King Co),19684,742
+2020-08-31,Vancouver (BC),5790,208
+2020-09-01,Portland (Multnomah Co),6053,122
+2020-09-01,Seattle (King Co),19730,747
+2020-09-01,Vancouver (BC),5848,209
+2020-09-02,Portland (Multnomah Co),6081,124
+2020-09-02,Seattle (King Co),19838,750
+2020-09-02,Vancouver (BC),5952,209
+2020-09-03,Portland (Multnomah Co),6142,124
+2020-09-03,Seattle (King Co),19934,751
+2020-09-03,Vancouver (BC),6041,210
+2020-09-04,Portland (Multnomah Co),6185,126
+2020-09-04,Seattle (King Co),20092,754
+2020-09-04,Vancouver (BC),6162,211
+2020-09-05,Portland (Multnomah Co),6224,126
+2020-09-05,Seattle (King Co),20184,754
+2020-09-05,Vancouver (BC),6162,211
+2020-09-06,Portland (Multnomah Co),6273,126
+2020-09-06,Seattle (King Co),20283,755
+2020-09-06,Vancouver (BC),6162,211
+2020-09-07,Portland (Multnomah Co),6302,127
+2020-09-07,Seattle (King Co),20339,755
+2020-09-07,Vancouver (BC),6162,211
+2020-09-08,Portland (Multnomah Co),6343,127
+2020-09-08,Seattle (King Co),20345,755
+2020-09-08,Vancouver (BC),6591,213
+2020-09-09,Portland (Multnomah Co),6365,127
+2020-09-09,Seattle (King Co),20459,762
+2020-09-09,Vancouver (BC),6691,213
+2020-09-10,Portland (Multnomah Co),6399,127
+2020-09-10,Seattle (King Co),20585,763
+2020-09-10,Vancouver (BC),6830,213
+2020-09-11,Portland (Multnomah Co),6458,126
+2020-09-11,Seattle (King Co),20718,763
+2020-09-11,Vancouver (BC),6962,213
+2020-09-12,Portland (Multnomah Co),6522,128
+2020-09-12,Seattle (King Co),20819,763
+2020-09-12,Vancouver (BC),6962,213
+2020-09-13,Portland (Multnomah Co),6556,127
+2020-09-13,Seattle (King Co),20887,763
+2020-09-13,Vancouver (BC),6962,213
+2020-09-14,Portland (Multnomah Co),6584,127
+2020-09-14,Seattle (King Co),20950,766
+2020-09-14,Vancouver (BC),7279,219
+2020-09-15,Portland (Multnomah Co),6618,129
+2020-09-15,Seattle (King Co),21032,767
+2020-09-15,Vancouver (BC),7376,219
+2020-09-16,Portland (Multnomah Co),6649,130
+2020-09-16,Seattle (King Co),21177,768
+2020-09-16,Vancouver (BC),7498,219
+2020-09-17,Portland (Multnomah Co),6690,129
+2020-09-17,Seattle (King Co),21215,769
+2020-09-17,Vancouver (BC),7663,220
+2020-09-18,Portland (Multnomah Co),6743,132
+2020-09-18,Seattle (King Co),21323,770
+2020-09-18,Vancouver (BC),7842,223
+2020-09-19,Portland (Multnomah Co),6779,132
+2020-09-19,Seattle (King Co),21418,770
+2020-09-19,Vancouver (BC),7842,223
+2020-09-20,Portland (Multnomah Co),6818,132
+2020-09-20,Seattle (King Co),21478,770
+2020-09-20,Vancouver (BC),7842,223
+2020-09-21,Portland (Multnomah Co),6853,136
+2020-09-21,Seattle (King Co),21552,772
+2020-09-21,Vancouver (BC),8208,227
+2020-09-22,Portland (Multnomah Co),6912,136
+2020-09-22,Seattle (King Co),21609,776
+2020-09-22,Vancouver (BC),8304,227
+2020-09-23,Portland (Multnomah Co),6938,136
+2020-09-23,Seattle (King Co),21696,778
+2020-09-23,Vancouver (BC),8395,227
+2020-09-24,Portland (Multnomah Co),7022,136
+2020-09-24,Seattle (King Co),21822,778
+2020-09-24,Vancouver (BC),8543,229
+2020-09-25,Portland (Multnomah Co),7081,138
+2020-09-25,Seattle (King Co),21915,787
+2020-09-25,Vancouver (BC),8641,230
+2020-09-26,Portland (Multnomah Co),7113,138
+2020-09-26,Seattle (King Co),22019,787
+2020-09-26,Vancouver (BC),8641,230
+2020-09-27,Portland (Multnomah Co),7184,138
+2020-09-27,Seattle (King Co),22137,787
+2020-09-27,Vancouver (BC),8641,230
+2020-09-28,Portland (Multnomah Co),7204,139
+2020-09-28,Seattle (King Co),22231,787
+2020-09-28,Vancouver (BC),8908,233
+2020-09-29,Portland (Multnomah Co),7257,140
+2020-09-29,Seattle (King Co),22282,780
+2020-09-29,Vancouver (BC),9013,234
+2020-09-30,Portland (Multnomah Co),7274,141
+2020-09-30,Seattle (King Co),22419,780
+2020-09-30,Vancouver (BC),9138,234
+2020-10-01,Portland (Multnomah Co),7345,141
+2020-10-01,Seattle (King Co),22579,778
+2020-10-01,Vancouver (BC),9220,235
+2020-10-02,Portland (Multnomah Co),7402,141
+2020-10-02,Seattle (King Co),22807,786
+2020-10-02,Vancouver (BC),9381,238
+2020-10-03,Portland (Multnomah Co),7455,144
+2020-10-03,Seattle (King Co),22960,786
+2020-10-03,Vancouver (BC),9381,238
+2020-10-04,Portland (Multnomah Co),7516,144
+2020-10-04,Seattle (King Co),23042,786
+2020-10-04,Vancouver (BC),9381,238
+2020-10-05,Portland (Multnomah Co),7576,145
+2020-10-05,Seattle (King Co),23168,790
+2020-10-05,Vancouver (BC),9739,242
+2020-10-06,Portland (Multnomah Co),7623,145
+2020-10-06,Seattle (King Co),23287,794
+2020-10-06,Vancouver (BC),9841,244
+2020-10-07,Portland (Multnomah Co),7665,146
+2020-10-07,Seattle (King Co),23438,799
+2020-10-07,Vancouver (BC),9956,244
+2020-10-08,Portland (Multnomah Co),7746,146
+2020-10-08,Seattle (King Co),23605,801
+2020-10-08,Vancouver (BC),10066,245
+2020-10-09,Portland (Multnomah Co),7844,146
+2020-10-09,Seattle (King Co),23755,803
+2020-10-09,Vancouver (BC),10185,245
+2020-10-10,Portland (Multnomah Co),7917,146
+2020-10-10,Seattle (King Co),23898,803
+2020-10-10,Vancouver (BC),10185,245
+2020-10-11,Portland (Multnomah Co),7994,146
+2020-10-11,Seattle (King Co),24072,803
+2020-10-11,Vancouver (BC),10185,245
+2020-10-12,Portland (Multnomah Co),8041,146
+2020-10-12,Seattle (King Co),24224,803
+2020-10-12,Vancouver (BC),10185,245
+2020-10-13,Portland (Multnomah Co),8086,148
+2020-10-13,Seattle (King Co),24349,807
+2020-10-13,Vancouver (BC),10734,250
+2020-10-14,Portland (Multnomah Co),8171,149
+2020-10-14,Seattle (King Co),24519,809
+2020-10-14,Vancouver (BC),10892,250
+2020-10-15,Portland (Multnomah Co),8280,149
+2020-10-15,Seattle (King Co),24668,810
+2020-10-15,Vancouver (BC),11034,250
+2020-10-16,Portland (Multnomah Co),8367,152
+2020-10-16,Seattle (King Co),24792,811
+2020-10-16,Vancouver (BC),11189,251
+2020-10-17,Portland (Multnomah Co),8462,152
+2020-10-17,Seattle (King Co),25011,812
+2020-10-17,Vancouver (BC),11189,251
+2020-10-18,Portland (Multnomah Co),8520,152
+2020-10-18,Seattle (King Co),25116,812
+2020-10-18,Vancouver (BC),11189,251
+2020-10-19,Portland (Multnomah Co),8588,156
+2020-10-19,Seattle (King Co),25288,813
+2020-10-19,Vancouver (BC),11687,253
+2020-10-20,Portland (Multnomah Co),8689,156
+2020-10-20,Seattle (King Co),25386,819
+2020-10-20,Vancouver (BC),11854,254
+2020-10-21,Portland (Multnomah Co),8743,157
+2020-10-21,Seattle (King Co),25559,819
+2020-10-21,Vancouver (BC),12057,256
+2020-10-22,Portland (Multnomah Co),8825,157
+2020-10-22,Seattle (King Co),25759,817
+2020-10-22,Vancouver (BC),12331,256
+2020-10-23,Portland (Multnomah Co),8955,160
+2020-10-23,Seattle (King Co),25988,817
+2020-10-23,Vancouver (BC),12554,256
+2020-10-24,Portland (Multnomah Co),9055,160
+2020-10-24,Seattle (King Co),26200,817
+2020-10-24,Vancouver (BC),12554,256
+2020-10-25,Portland (Multnomah Co),9137,160
+2020-10-25,Seattle (King Co),26360,817
+2020-10-25,Vancouver (BC),12554,256
+2020-10-26,Portland (Multnomah Co),9228,161
+2020-10-26,Seattle (King Co),26540,828
+2020-10-26,Vancouver (BC),13371,259
+2020-10-27,Portland (Multnomah Co),9292,163
+2020-10-27,Seattle (King Co),26640,828
+2020-10-27,Vancouver (BC),13588,259
+2020-10-28,Portland (Multnomah Co),9401,166
+2020-10-28,Seattle (King Co),26836,833
+2020-10-28,Vancouver (BC),13875,261
+2020-10-29,Portland (Multnomah Co),9502,166
+2020-10-29,Seattle (King Co),27057,833
+2020-10-29,Vancouver (BC),14109,262
+2020-10-30,Portland (Multnomah Co),9653,168
+2020-10-30,Seattle (King Co),27442,834
+2020-10-30,Vancouver (BC),14381,263
+2020-10-31,Portland (Multnomah Co),9780,173
+2020-10-31,Seattle (King Co),27776,834
+2020-10-31,Vancouver (BC),14733,263
+2020-11-01,Portland (Multnomah Co),9894,172
+2020-11-01,Seattle (King Co),27986,834
+2020-11-01,Vancouver (BC),15122,263
+2020-11-02,Portland (Multnomah Co),10090,174
+2020-11-02,Seattle (King Co),28281,836
+2020-11-02,Vancouver (BC),15501,269
+2020-11-03,Portland (Multnomah Co),10139,175
+2020-11-03,Seattle (King Co),28408,840
+2020-11-03,Vancouver (BC),15800,272
+2020-11-04,Portland (Multnomah Co),10312,176
+2020-11-04,Seattle (King Co),28967,841
+2020-11-04,Vancouver (BC),16135,273
+2020-11-05,Portland (Multnomah Co),10505,176
+2020-11-05,Seattle (King Co),29484,841
+2020-11-05,Vancouver (BC),16560,273
+2020-11-06,Portland (Multnomah Co),10705,179
+2020-11-06,Seattle (King Co),30016,841
+2020-11-06,Vancouver (BC),17149,275
+2020-11-07,Portland (Multnomah Co),10942,185
+2020-11-07,Seattle (King Co),30434,841
+2020-11-07,Vancouver (BC),17716,276
+2020-11-08,Portland (Multnomah Co),11156,185
+2020-11-08,Seattle (King Co),30885,841
+2020-11-08,Vancouver (BC),18252,276
+2020-11-09,Portland (Multnomah Co),11348,188
+2020-11-09,Seattle (King Co),31263,845
+2020-11-09,Vancouver (BC),18714,281
+2020-11-10,Portland (Multnomah Co),11497,188
+2020-11-10,Seattle (King Co),31595,848
+2020-11-10,Vancouver (BC),19239,284
+2020-11-11,Portland (Multnomah Co),11792,191
+2020-11-11,Seattle (King Co),31967,848
+2020-11-11,Vancouver (BC),19774,284
+2020-11-12,Portland (Multnomah Co),12139,191
+2020-11-12,Seattle (King Co),32589,857
+2020-11-12,Vancouver (BC),20368,288
+2020-11-13,Portland (Multnomah Co),12382,195
+2020-11-13,Seattle (King Co),33387,855
+2020-11-13,Vancouver (BC),20985,290
+2020-11-14,Portland (Multnomah Co),12521,195
+2020-11-14,Seattle (King Co),34014,855
+2020-11-14,Vancouver (BC),21639,290
+2020-11-15,Portland (Multnomah Co),12700,195
+2020-11-15,Seattle (King Co),34556,855
+2020-11-15,Vancouver (BC),22298,290
+2020-11-16,Portland (Multnomah Co),12930,200
+2020-11-16,Seattle (King Co),35228,857
+2020-11-16,Vancouver (BC),22944,299
+2020-11-17,Portland (Multnomah Co),13138,200
+2020-11-17,Seattle (King Co),35729,864
+2020-11-17,Vancouver (BC),23661,310
+2020-11-18,Portland (Multnomah Co),13350,204
+2020-11-18,Seattle (King Co),36012,864
+2020-11-18,Vancouver (BC),24422,320
+2020-11-19,Portland (Multnomah Co),13725,208
+2020-11-19,Seattle (King Co),36816,865
+2020-11-19,Vancouver (BC),24958,321
+2020-11-20,Portland (Multnomah Co),14060,211
+2020-11-20,Seattle (King Co),37454,866
+2020-11-20,Vancouver (BC),25474,331
+2020-11-21,Portland (Multnomah Co),14472,211
+2020-11-21,Seattle (King Co),38031,866
+2020-11-21,Vancouver (BC),26187,331
+2020-11-22,Portland (Multnomah Co),14988,211
+2020-11-22,Seattle (King Co),38691,866
+2020-11-22,Vancouver (BC),26813,331
+2020-11-23,Portland (Multnomah Co),15240,215
+2020-11-23,Seattle (King Co),40084,878
+2020-11-23,Vancouver (BC),27407,348
+2020-11-24,Portland (Multnomah Co),15386,224
+2020-11-24,Seattle (King Co),40755,883
+2020-11-24,Vancouver (BC),28348,358
+2020-11-25,Portland (Multnomah Co),15561,232
+2020-11-25,Seattle (King Co),41519,885
+2020-11-25,Vancouver (BC),29086,371
+2020-11-26,Portland (Multnomah Co),15860,232
+2020-11-26,Seattle (King Co),42122,885
+2020-11-26,Vancouver (BC),29973,384
+2020-11-27,Portland (Multnomah Co),15875,235
+2020-11-27,Seattle (King Co),42922,885
+2020-11-27,Vancouver (BC),30884,395
+2020-11-28,Portland (Multnomah Co),16587,235
+2020-11-28,Seattle (King Co),43403,885
+2020-11-28,Vancouver (BC),31634,410
+2020-11-29,Portland (Multnomah Co),17242,236
+2020-11-29,Seattle (King Co),43856,885
+2020-11-29,Vancouver (BC),32642,427
+2020-11-30,Portland (Multnomah Co),17576,241
+2020-11-30,Seattle (King Co),44425,900
+2020-11-30,Vancouver (BC),33238,441
+2020-12-01,Portland (Multnomah Co),17825,244
+2020-12-01,Seattle (King Co),45157,906
+2020-12-01,Vancouver (BC),33894,457
+2020-12-02,Portland (Multnomah Co),18162,250
+2020-12-02,Seattle (King Co),45830,916
+2020-12-02,Vancouver (BC),34728,469
+2020-12-03,Portland (Multnomah Co),18432,251
+2020-12-03,Seattle (King Co),46192,924
+2020-12-03,Vancouver (BC),35421,481
+2020-12-04,Portland (Multnomah Co),18813,263
+2020-12-04,Seattle (King Co),46950,933
+2020-12-04,Vancouver (BC),36132,492
+2020-12-05,Portland (Multnomah Co),19209,269
+2020-12-05,Seattle (King Co),47274,933
+2020-12-05,Vancouver (BC),36779,510
+2020-12-06,Portland (Multnomah Co),19396,270
+2020-12-06,Seattle (King Co),47637,933
+2020-12-06,Vancouver (BC),37505,520
+2020-12-07,Portland (Multnomah Co),19732,276
+2020-12-07,Seattle (King Co),49758,947
+2020-12-07,Vancouver (BC),38152,527
+2020-12-08,Portland (Multnomah Co),19995,286
+2020-12-08,Seattle (King Co),50345,948
+2020-12-08,Vancouver (BC),38718,543
+2020-12-09,Portland (Multnomah Co),20194,297
+2020-12-09,Seattle (King Co),50989,963
+2020-12-09,Vancouver (BC),39337,559
+2020-12-10,Portland (Multnomah Co),20575,298
+2020-12-10,Seattle (King Co),51690,913
+2020-12-10,Vancouver (BC),40060,587
+2020-12-11,Portland (Multnomah Co),20852,306
+2020-12-11,Seattle (King Co),52594,931
+2020-12-11,Vancouver (BC),40797,598
+2020-12-12,Portland (Multnomah Co),21156,306
+2020-12-12,Seattle (King Co),53365,931
+2020-12-12,Vancouver (BC),41495,626
+2020-12-13,Portland (Multnomah Co),21323,306
+2020-12-13,Seattle (King Co),54036,931
+2020-12-13,Vancouver (BC),42184,640
+2020-12-14,Portland (Multnomah Co),21561,307
+2020-12-14,Seattle (King Co),54668,937
+2020-12-14,Vancouver (BC),42943,647
+2020-12-15,Portland (Multnomah Co),21764,323
+2020-12-15,Seattle (King Co),54868,947
+2020-12-15,Vancouver (BC),43463,668
+2020-12-16,Portland (Multnomah Co),22212,338
+2020-12-16,Seattle (King Co),55231,947
+2020-12-16,Vancouver (BC),44103,692
+2020-12-17,Portland (Multnomah Co),22453,345
+2020-12-17,Seattle (King Co),56270,970
+2020-12-17,Vancouver (BC),44776,713
+2020-12-18,Portland (Multnomah Co),22652,350
+2020-12-18,Seattle (King Co),57136,958
+2020-12-18,Vancouver (BC),45400,724
+2020-12-19,Portland (Multnomah Co),22973,365
+2020-12-19,Seattle (King Co),57785,958
+2020-12-19,Vancouver (BC),46052,752
+2020-12-20,Portland (Multnomah Co),23138,365
+2020-12-20,Seattle (King Co),57785,958
+2020-12-20,Vancouver (BC),46538,760
+2020-12-21,Portland (Multnomah Co),23441,365
+2020-12-21,Seattle (King Co),58749,958
+2020-12-21,Vancouver (BC),47067,765
+2020-12-22,Portland (Multnomah Co),23620,375
+2020-12-22,Seattle (King Co),58970,966
+2020-12-22,Vancouver (BC),47510,777
+2020-12-23,Portland (Multnomah Co),23836,381
+2020-12-23,Seattle (King Co),59385,976
+2020-12-23,Vancouver (BC),48027,796
+2020-12-24,Portland (Multnomah Co),23990,381
+2020-12-24,Seattle (King Co),59896,978
+2020-12-24,Vancouver (BC),48609,808
+2020-12-25,Portland (Multnomah Co),24293,387
+2020-12-25,Seattle (King Co),59896,978
+2020-12-25,Vancouver (BC),49121,833
+2020-12-26,Portland (Multnomah Co),24471,387
+2020-12-26,Seattle (King Co),60695,978
+2020-12-26,Vancouver (BC),49568,847
+2020-12-27,Portland (Multnomah Co),24581,387
+2020-12-27,Seattle (King Co),60695,978
+2020-12-27,Vancouver (BC),49992,861
+2020-12-28,Portland (Multnomah Co),24705,389
+2020-12-28,Seattle (King Co),61150,979
+2020-12-28,Vancouver (BC),50433,872
+2020-12-29,Portland (Multnomah Co),24796,389
+2020-12-29,Seattle (King Co),61457,1024
+2020-12-29,Vancouver (BC),50815,882
+2020-12-30,Portland (Multnomah Co),24978,394
+2020-12-30,Seattle (King Co),61712,1039
+2020-12-30,Vancouver (BC),51300,893
+2020-12-31,Portland (Multnomah Co),25290,394
+2020-12-31,Seattle (King Co),62582,1052
+2020-12-31,Vancouver (BC),51990,901
+2021-01-01,Portland (Multnomah Co),25590,400
+2021-01-01,Seattle (King Co),62582,1052
+2021-01-01,Vancouver (BC),52555,901
+2021-01-02,Portland (Multnomah Co),25754,400
+2021-01-02,Seattle (King Co),62582,1052
+2021-01-02,Vancouver (BC),53162,901
+2021-01-03,Portland (Multnomah Co),25943,400
+2021-01-03,Seattle (King Co),65267,1051
+2021-01-03,Vancouver (BC),53662,901
+2021-01-04,Portland (Multnomah Co),26028,400
+2021-01-04,Seattle (King Co),65572,1054
+2021-01-04,Vancouver (BC),54201,946
+2021-01-05,Portland (Multnomah Co),26180,404
+2021-01-05,Seattle (King Co),65836,1070
+2021-01-05,Vancouver (BC),54629,954
+2021-01-06,Portland (Multnomah Co),26285,412
+2021-01-06,Seattle (King Co),66288,1087
+2021-01-06,Vancouver (BC),55254,962
+2021-01-07,Portland (Multnomah Co),26295,412
+2021-01-07,Seattle (King Co),67000,1095
+2021-01-07,Vancouver (BC),56015,970
+2021-01-08,Portland (Multnomah Co),26544,413
+2021-01-08,Seattle (King Co),67934,1107
+2021-01-08,Vancouver (BC),56632,988
+2021-01-09,Portland (Multnomah Co),26912,413
+2021-01-09,Seattle (King Co),68801,1107
+2021-01-09,Vancouver (BC),57170,999
+2021-01-10,Portland (Multnomah Co),27137,413
+2021-01-10,Seattle (King Co),68801,1107
+2021-01-10,Vancouver (BC),57677,1005
+2021-01-11,Portland (Multnomah Co),27144,422
+2021-01-11,Seattle (King Co),70061,1107
+2021-01-11,Vancouver (BC),58107,1010
+2021-01-12,Portland (Multnomah Co),27400,425
+2021-01-12,Seattle (King Co),70547,1124
+2021-01-12,Vancouver (BC),58553,1019
+2021-01-13,Portland (Multnomah Co),27705,441
+2021-01-13,Seattle (King Co),71108,1137
+2021-01-13,Vancouver (BC),59072,1031
+2021-01-14,Portland (Multnomah Co),27890,446
+2021-01-14,Seattle (King Co),71648,1146
+2021-01-14,Vancouver (BC),59608,1038
+2021-01-15,Portland (Multnomah Co),28068,457
+2021-01-15,Seattle (King Co),72255,1154
+2021-01-15,Vancouver (BC),60117,1047
+2021-01-16,Portland (Multnomah Co),28237,458
+2021-01-16,Seattle (King Co),72255,1154
+2021-01-16,Vancouver (BC),60701,1064
+2021-01-17,Portland (Multnomah Co),28337,458
+2021-01-17,Seattle (King Co),73017,1154
+2021-01-17,Vancouver (BC),61146,1073
+2021-01-18,Portland (Multnomah Co),28467,463
+2021-01-18,Seattle (King Co),73017,1154
+2021-01-18,Vancouver (BC),61447,1078
+2021-01-19,Portland (Multnomah Co),28586,463
+2021-01-19,Seattle (King Co),73669,1168
+2021-01-19,Vancouver (BC),61912,1090
+2021-01-20,Portland (Multnomah Co),28678,464
+2021-01-20,Seattle (King Co),74079,1168
+2021-01-20,Vancouver (BC),62412,1104
+2021-01-21,Portland (Multnomah Co),28796,464
+2021-01-21,Seattle (King Co),74502,1193
+2021-01-21,Vancouver (BC),62976,1119
+2021-01-22,Portland (Multnomah Co),28929,465
+2021-01-22,Seattle (King Co),74953,1205
+2021-01-22,Vancouver (BC),63484,1128
+2021-01-23,Portland (Multnomah Co),29040,465
+2021-01-23,Seattle (King Co),75435,1205
+2021-01-23,Vancouver (BC),64011,1128
+2021-01-24,Portland (Multnomah Co),29114,465
+2021-01-24,Seattle (King Co),75435,1205
+2021-01-24,Vancouver (BC),64482,1128
+2021-01-25,Portland (Multnomah Co),29216,468
+2021-01-25,Seattle (King Co),75905,1221
+2021-01-25,Vancouver (BC),64828,1154
+2021-01-26,Portland (Multnomah Co),29403,468
+2021-01-26,Seattle (King Co),76148,1222
+2021-01-26,Vancouver (BC),65234,1168
+2021-01-27,Portland (Multnomah Co),29512,479
+2021-01-27,Seattle (King Co),76561,1232
+2021-01-27,Vancouver (BC),65719,1172
+2021-01-28,Portland (Multnomah Co),29676,480
+2021-01-28,Seattle (King Co),77069,1235
+2021-01-28,Vancouver (BC),66265,1184
+2021-01-29,Portland (Multnomah Co),29799,480
+2021-01-29,Seattle (King Co),77693,1244
+2021-01-29,Vancouver (BC),66779,1189
+2021-01-30,Portland (Multnomah Co),29920,480
+2021-01-30,Seattle (King Co),78012,1244
+2021-01-30,Vancouver (BC),67187,1189
+2021-01-31,Portland (Multnomah Co),29920,480
+2021-01-31,Seattle (King Co),78012,1244
+2021-01-31,Vancouver (BC),67660,1189
+2021-02-01,Portland (Multnomah Co),30097,481
+2021-02-01,Seattle (King Co),78391,1254
+2021-02-01,Vancouver (BC),67937,1210
+2021-02-02,Portland (Multnomah Co),30234,486
+2021-02-02,Seattle (King Co),78680,1252
+2021-02-02,Vancouver (BC),68366,1218
+2021-02-03,Portland (Multnomah Co),30278,488
+2021-02-03,Seattle (King Co),79063,1266
+2021-02-03,Vancouver (BC),68780,1234
+2021-02-04,Portland (Multnomah Co),30416,488
+2021-02-04,Seattle (King Co),79342,1270
+2021-02-04,Vancouver (BC),69245,1240
+2021-02-05,Portland (Multnomah Co),30540,488
+2021-02-05,Seattle (King Co),79633,1279
+2021-02-05,Vancouver (BC),69716,1246
+2021-02-06,Portland (Multnomah Co),30627,488
+2021-02-06,Seattle (King Co),79701,1279
+2021-02-06,Vancouver (BC),70144,1246
+2021-02-07,Portland (Multnomah Co),30688,488
+2021-02-07,Seattle (King Co),79701,1279
+2021-02-07,Vancouver (BC),70609,1246
+2021-02-08,Portland (Multnomah Co),30756,491
+2021-02-08,Seattle (King Co),80417,1278
+2021-02-08,Vancouver (BC),70952,1259
+2021-02-09,Portland (Multnomah Co),30830,491
+2021-02-09,Seattle (King Co),80596,1292
+2021-02-09,Vancouver (BC),71387,1263
+2021-02-10,Portland (Multnomah Co),30949,494
+2021-02-10,Seattle (King Co),80798,1297
+2021-02-10,Vancouver (BC),71856,1269
+2021-02-11,Portland (Multnomah Co),31021,494
+2021-02-11,Seattle (King Co),81084,1307
+2021-02-11,Vancouver (BC),72305,1278
+2021-02-12,Portland (Multnomah Co),31067,508
+2021-02-12,Seattle (King Co),81332,1313
+2021-02-12,Vancouver (BC),72750,1288
+2021-02-13,Portland (Multnomah Co),31137,512
+2021-02-13,Seattle (King Co),81543,1313
+2021-02-13,Vancouver (BC),73202,1298
+2021-02-14,Portland (Multnomah Co),31182,512
+2021-02-14,Seattle (King Co),81543,1313
+2021-02-14,Vancouver (BC),73633,1303
+2021-02-15,Portland (Multnomah Co),31204,512
+2021-02-15,Seattle (King Co),81543,1313
+2021-02-15,Vancouver (BC),73981,1310
+2021-02-16,Portland (Multnomah Co),31340,512
+2021-02-16,Seattle (King Co),82024,1323
+2021-02-16,Vancouver (BC),74283,1314
+2021-02-17,Portland (Multnomah Co),31344,516
+2021-02-17,Seattle (King Co),82203,1331
+2021-02-17,Vancouver (BC),74710,1317
+2021-02-18,Portland (Multnomah Co),31406,516
+2021-02-18,Seattle (King Co),82404,1350
+2021-02-18,Vancouver (BC),75327,1321
+2021-02-19,Portland (Multnomah Co),31465,516
+2021-02-19,Seattle (King Co),82617,1359
+2021-02-19,Vancouver (BC),75835,1327
+2021-02-20,Portland (Multnomah Co),31526,516
+2021-02-20,Seattle (King Co),82837,1359
+2021-02-20,Vancouver (BC),76339,1327
+2021-02-21,Portland (Multnomah Co),31534,516
+2021-02-21,Seattle (King Co),82837,1359
+2021-02-21,Vancouver (BC),76814,1327
+2021-02-22,Portland (Multnomah Co),31614,520
+2021-02-22,Seattle (King Co),83073,1372
+2021-02-22,Vancouver (BC),77263,1335
+2021-02-23,Portland (Multnomah Co),31669,520
+2021-02-23,Seattle (King Co),83197,1373
+2021-02-23,Vancouver (BC),77858,1336
+2021-02-24,Portland (Multnomah Co),31726,533
+2021-02-24,Seattle (King Co),83359,1382
+2021-02-24,Vancouver (BC),78350,1338
+2021-02-25,Portland (Multnomah Co),31799,534
+2021-02-25,Seattle (King Co),83613,1392
+2021-02-25,Vancouver (BC),78782,1348
+2021-02-26,Portland (Multnomah Co),31844,534
+2021-02-26,Seattle (King Co),83803,1396
+2021-02-26,Vancouver (BC),79340,1355
+2021-02-27,Portland (Multnomah Co),31853,534
+2021-02-27,Seattle (King Co),84016,1396
+2021-02-27,Vancouver (BC),79909,1355
+2021-02-28,Portland (Multnomah Co),31877,534
+2021-02-28,Seattle (King Co),84016,1396
+2021-02-28,Vancouver (BC),80454,1355
+2021-03-01,Portland (Multnomah Co),31971,535
+2021-03-01,Seattle (King Co),84246,1396
+2021-03-01,Vancouver (BC),80929,1363
+2021-03-02,Portland (Multnomah Co),31971,535
+2021-03-02,Seattle (King Co),84328,1399
+2021-03-02,Vancouver (BC),81367,1365
+2021-03-03,Portland (Multnomah Co),32028,547
+2021-03-03,Seattle (King Co),84490,1408
+2021-03-03,Vancouver (BC),81909,1372
+2021-03-04,Portland (Multnomah Co),32028,550
+2021-03-04,Seattle (King Co),84716,1415
+2021-03-04,Vancouver (BC),82473,1376
+2021-03-05,Portland (Multnomah Co),32089,554
+2021-03-05,Seattle (King Co),84857,1417
+2021-03-05,Vancouver (BC),83107,1380
+2021-03-06,Portland (Multnomah Co),32089,554
+2021-03-06,Seattle (King Co),85017,1417
+2021-03-06,Vancouver (BC),83652,1383
+2021-03-07,Portland (Multnomah Co),32089,554
+2021-03-07,Seattle (King Co),85017,1417
+2021-03-07,Vancouver (BC),84184,1387
+2021-03-08,Portland (Multnomah Co),32138,554
+2021-03-08,Seattle (King Co),85284,1427
+2021-03-08,Vancouver (BC),84569,1391
+2021-03-09,Portland (Multnomah Co),32138,554
+2021-03-09,Seattle (King Co),85419,1429
+2021-03-09,Vancouver (BC),85119,1393
+2021-03-10,Portland (Multnomah Co),32231,556
+2021-03-10,Seattle (King Co),85598,1435
+2021-03-10,Vancouver (BC),85650,1394
+2021-03-11,Portland (Multnomah Co),32231,556
+2021-03-11,Seattle (King Co),85826,1437
+2021-03-11,Vancouver (BC),86219,1397
+2021-03-12,Portland (Multnomah Co),32385,557
+2021-03-12,Seattle (King Co),86004,1441
+2021-03-12,Vancouver (BC),86867,1397
+2021-03-13,Portland (Multnomah Co),32385,557
+2021-03-13,Seattle (King Co),86236,1441
+2021-03-13,Vancouver (BC),87422,1401
+2021-03-14,Portland (Multnomah Co),32393,557
+2021-03-14,Seattle (King Co),86236,1441
+2021-03-14,Vancouver (BC),87913,1404
+2021-03-15,Portland (Multnomah Co),32503,558
+2021-03-15,Seattle (King Co),86542,1442
+2021-03-15,Vancouver (BC),88373,1407
+2021-03-16,Portland (Multnomah Co),32503,558
+2021-03-16,Seattle (King Co),86657,1445
+2021-03-16,Vancouver (BC),88929,1407
+2021-03-17,Portland (Multnomah Co),32564,561
+2021-03-17,Seattle (King Co),86852,1444
+2021-03-17,Vancouver (BC),89427,1411
+2021-03-18,Portland (Multnomah Co),32564,561
+2021-03-18,Seattle (King Co),87140,1451
+2021-03-18,Vancouver (BC),90049,1419
+2021-03-19,Portland (Multnomah Co),32663,564
+2021-03-19,Seattle (King Co),87395,1451
+2021-03-19,Vancouver (BC),90786,1421
+2021-03-20,Portland (Multnomah Co),32663,564
+2021-03-20,Seattle (King Co),87628,1451
+2021-03-20,Vancouver (BC),91342,1421
+2021-03-21,Portland (Multnomah Co),32668,564
+2021-03-21,Seattle (King Co),87628,1451
+2021-03-21,Vancouver (BC),91940,1421
+2021-03-22,Portland (Multnomah Co),32779,565
+2021-03-22,Seattle (King Co),88023,1453
+2021-03-22,Vancouver (BC),92571,1437
+2021-03-23,Portland (Multnomah Co),32814,566
+2021-03-23,Seattle (King Co),88114,1454
+2021-03-23,Vancouver (BC),93253,1438
+2021-03-24,Portland (Multnomah Co),32866,565
+2021-03-24,Seattle (King Co),88467,1460
+2021-03-24,Vancouver (BC),93969,1441
+2021-03-25,Portland (Multnomah Co),32930,565
+2021-03-25,Seattle (King Co),88835,1462
+2021-03-25,Vancouver (BC),94769,1446
+2021-03-26,Portland (Multnomah Co),33039,565
+2021-03-26,Seattle (King Co),89205,1460
+2021-03-26,Vancouver (BC),95677,1449
+2021-03-27,Portland (Multnomah Co),33039,565
+2021-03-27,Seattle (King Co),89638,1460
+2021-03-27,Vancouver (BC),96613,1452
+2021-03-28,Portland (Multnomah Co),33042,565
+2021-03-28,Seattle (King Co),89638,1460
+2021-03-28,Vancouver (BC),97418,1453
+2021-03-29,Portland (Multnomah Co),33164,567
+2021-03-29,Seattle (King Co),90127,1463
+2021-03-29,Vancouver (BC),98195,1455
+2021-03-30,Portland (Multnomah Co),33164,567
+2021-03-30,Seattle (King Co),90335,1466
+2021-03-30,Vancouver (BC),99035,1455
+2021-03-31,Portland (Multnomah Co),33248,567
+2021-03-31,Seattle (King Co),90694,1467
+2021-03-31,Vancouver (BC),100048,1458
+2021-04-01,Portland (Multnomah Co),33314,567
+2021-04-01,Seattle (King Co),91106,1470
+2021-04-01,Vancouver (BC),100880,1463
+2021-04-02,Portland (Multnomah Co),33425,568
+2021-04-02,Seattle (King Co),91510,1472
+2021-04-02,Vancouver (BC),101954,1463
+2021-04-03,Portland (Multnomah Co),33485,568
+2021-04-03,Seattle (King Co),91857,1472
+2021-04-03,Vancouver (BC),103031,1463
+2021-04-04,Portland (Multnomah Co),33569,568
+2021-04-04,Seattle (King Co),91857,1472
+2021-04-04,Vancouver (BC),104030,1463
+2021-04-05,Portland (Multnomah Co),33712,567
+2021-04-05,Seattle (King Co),92478,1475
+2021-04-05,Vancouver (BC),104920,1486
+2021-04-06,Portland (Multnomah Co),33712,567
+2021-04-06,Seattle (King Co),92572,1477
+2021-04-06,Vancouver (BC),105988,1489
+2021-04-07,Portland (Multnomah Co),33776,572
+2021-04-07,Seattle (King Co),93004,1480
+2021-04-07,Vancouver (BC),106985,1491
+2021-04-08,Portland (Multnomah Co),33878,572
+2021-04-08,Seattle (King Co),93326,1483
+2021-04-08,Vancouver (BC),108278,1493
+2021-04-09,Portland (Multnomah Co),33969,572
+2021-04-09,Seattle (King Co),93762,1484
+2021-04-09,Vancouver (BC),109540,1495
+2021-04-10,Portland (Multnomah Co),34095,572
+2021-04-10,Seattle (King Co),94134,1484
+2021-04-10,Vancouver (BC),110823,1504
+2021-04-11,Portland (Multnomah Co),34192,572
+2021-04-11,Seattle (King Co),94134,1484
+2021-04-11,Vancouver (BC),111859,1509
+2021-04-12,Portland (Multnomah Co),34326,575
+2021-04-12,Seattle (King Co),94777,1485
+2021-04-12,Vancouver (BC),112829,1513
+2021-04-13,Portland (Multnomah Co),34326,575
+2021-04-13,Seattle (King Co),95003,1489
+2021-04-13,Vancouver (BC),113702,1515
+2021-04-14,Portland (Multnomah Co),34438,576
+2021-04-14,Seattle (King Co),95349,1492
+2021-04-14,Vancouver (BC),114870,1521
+2021-04-15,Portland (Multnomah Co),34555,576
+2021-04-15,Seattle (King Co),95784,1493
+2021-04-15,Vancouver (BC),116075,1524
+2021-04-16,Portland (Multnomah Co),34718,576
+2021-04-16,Seattle (King Co),96337,1496
+2021-04-16,Vancouver (BC),117080,1530
+2021-04-17,Portland (Multnomah Co),34800,576
+2021-04-17,Seattle (King Co),96810,1496
+2021-04-17,Vancouver (BC),118107,1530
+2021-04-18,Portland (Multnomah Co),34937,576
+2021-04-18,Seattle (King Co),96810,1496
+2021-04-18,Vancouver (BC),119040,1530
+2021-04-19,Portland (Multnomah Co),35152,578
+2021-04-19,Seattle (King Co),97232,1500
+2021-04-19,Vancouver (BC),120040,1538
+2021-04-20,Portland (Multnomah Co),35152,578
+2021-04-20,Seattle (King Co),97714,1503
+2021-04-20,Vancouver (BC),120889,1539
+2021-04-21,Portland (Multnomah Co),35310,582
+2021-04-21,Seattle (King Co),98161,1505
+2021-04-21,Vancouver (BC),121751,1546
+2021-04-22,Portland (Multnomah Co),35509,582
+2021-04-22,Seattle (King Co),98629,1506
+2021-04-22,Vancouver (BC),122757,1550
+2021-04-23,Portland (Multnomah Co),35705,583
+2021-04-23,Seattle (King Co),99087,1506
+2021-04-23,Vancouver (BC),123758,1554
+2021-04-24,Portland (Multnomah Co),35827,583
+2021-04-24,Seattle (King Co),99553,1506
+2021-04-24,Vancouver (BC),124639,1563
+2021-04-25,Portland (Multnomah Co),35993,583
+2021-04-25,Seattle (King Co),99553,1506
+2021-04-25,Vancouver (BC),125486,1568
+2021-04-26,Portland (Multnomah Co),36238,586
+2021-04-26,Seattle (King Co),100278,1507
+2021-04-26,Vancouver (BC),126249,1571
+2021-04-27,Portland (Multnomah Co),36242,586
+2021-04-27,Seattle (King Co),100479,1509
+2021-04-27,Vancouver (BC),127048,1571
+2021-04-28,Portland (Multnomah Co),36428,586
+2021-04-28,Seattle (King Co),100955,1514
+2021-04-28,Vancouver (BC),127889,1576
+2021-04-29,Portland (Multnomah Co),36553,586
+2021-04-29,Seattle (King Co),101483,1515
+2021-04-29,Vancouver (BC),128742,1577
+2021-04-30,Portland (Multnomah Co),36746,586
+2021-04-30,Seattle (King Co),101885,1517
+2021-04-30,Vancouver (BC),129482,1581
+2021-05-01,Portland (Multnomah Co),36859,586
+2021-05-01,Seattle (King Co),102351,1517
+2021-05-01,Vancouver (BC),130317,1581
+2021-05-02,Portland (Multnomah Co),37049,586
+2021-05-02,Seattle (King Co),102351,1517
+2021-05-02,Vancouver (BC),130988,1581
+2021-05-03,Portland (Multnomah Co),37221,587
+2021-05-03,Seattle (King Co),103119,1519
+2021-05-03,Vancouver (BC),131656,1594
+2021-05-04,Portland (Multnomah Co),37286,587
+2021-05-04,Seattle (King Co),103353,1526
+2021-05-04,Vancouver (BC),132353,1594
+2021-05-05,Portland (Multnomah Co),37484,590
+2021-05-05,Seattle (King Co),103865,1526
+2021-05-05,Vancouver (BC),132925,1594
+2021-05-06,Portland (Multnomah Co),37544,590
+2021-05-06,Seattle (King Co),104211,1529
+2021-05-06,Vancouver (BC),133619,1595
+2021-05-07,Portland (Multnomah Co),37752,593
+2021-05-07,Seattle (King Co),104575,1534
+2021-05-07,Vancouver (BC),134341,1602
+2021-05-08,Portland (Multnomah Co),37830,593
+2021-05-08,Seattle (King Co),104965,1534
+2021-05-08,Vancouver (BC),134937,1614
+2021-05-09,Portland (Multnomah Co),37970,593
+2021-05-09,Seattle (King Co),104965,1534
+2021-05-09,Vancouver (BC),135542,1618
+2021-05-10,Portland (Multnomah Co),38089,597
+2021-05-10,Seattle (King Co),105425,1537
+2021-05-10,Vancouver (BC),136108,1622
+2021-05-11,Portland (Multnomah Co),38115,597
+2021-05-11,Seattle (King Co),105692,1540
+2021-05-11,Vancouver (BC),136623,1624
+2021-05-12,Portland (Multnomah Co),38207,597
+2021-05-12,Seattle (King Co),105969,1543
+2021-05-12,Vancouver (BC),137223,1625
+2021-05-13,Portland (Multnomah Co),38352,597
+2021-05-13,Seattle (King Co),106277,1546
+2021-05-13,Vancouver (BC),137810,1632
+2021-05-14,Portland (Multnomah Co),38497,604
+2021-05-14,Seattle (King Co),106942,1542
+2021-05-14,Vancouver (BC),138304,1634
+2021-05-15,Portland (Multnomah Co),38618,604
+2021-05-15,Seattle (King Co),107149,1542
+2021-05-15,Vancouver (BC),138747,1634
+2021-05-16,Portland (Multnomah Co),38714,604
+2021-05-16,Seattle (King Co),107149,1542
+2021-05-16,Vancouver (BC),139240,1634
+2021-05-17,Portland (Multnomah Co),38829,612
+2021-05-17,Seattle (King Co),107368,1548
+2021-05-17,Vancouver (BC),139664,1648
+2021-05-18,Portland (Multnomah Co),38829,612
+2021-05-18,Seattle (King Co),107464,1552
+2021-05-18,Vancouver (BC),140075,1650
+2021-05-19,Portland (Multnomah Co),38919,615
+2021-05-19,Seattle (King Co),107634,1556
+2021-05-19,Vancouver (BC),140596,1658
+2021-05-20,Portland (Multnomah Co),38947,615
+2021-05-20,Seattle (King Co),107847,1557
+2021-05-20,Vancouver (BC),140953,1661
+2021-05-21,Portland (Multnomah Co),39010,615
+2021-05-21,Seattle (King Co),108122,1561
+2021-05-21,Vancouver (BC),141373,1667
+2021-05-22,Portland (Multnomah Co),39069,615
+2021-05-22,Seattle (King Co),108122,1561
+2021-05-22,Vancouver (BC),141729,1667
+2021-05-23,Portland (Multnomah Co),39137,615
+2021-05-23,Seattle (King Co),108122,1561
+2021-05-23,Vancouver (BC),142054,1667
+2021-05-24,Portland (Multnomah Co),39257,616
+2021-05-24,Seattle (King Co),108510,1564
+2021-05-24,Vancouver (BC),142347,1679
+2021-05-25,Portland (Multnomah Co),39257,616
+2021-05-25,Seattle (King Co),108616,1567
+2021-05-25,Vancouver (BC),142636,1680
+2021-05-26,Portland (Multnomah Co),39370,620
+2021-05-26,Seattle (King Co),108916,1571
+2021-05-26,Vancouver (BC),142886,1683
+2021-05-27,Portland (Multnomah Co),39370,620
+2021-05-27,Seattle (King Co),109159,1576
+2021-05-27,Vancouver (BC),143264,1690
+2021-05-28,Portland (Multnomah Co),39422,620
+2021-05-28,Seattle (King Co),109360,1579
+2021-05-28,Vancouver (BC),143581,1692
+2021-05-29,Portland (Multnomah Co),39479,620
+2021-05-29,Seattle (King Co),109531,1579
+2021-05-29,Vancouver (BC),143839,1699
+2021-05-30,Portland (Multnomah Co),39543,620
+2021-05-30,Seattle (King Co),109531,1579
+2021-05-30,Vancouver (BC),144077,1700
+2021-05-31,Portland (Multnomah Co),39663,627
+2021-05-31,Seattle (King Co),109531,1579
+2021-05-31,Vancouver (BC),144289,1703
+2021-06-01,Portland (Multnomah Co),39663,627
+2021-06-01,Seattle (King Co),109759,1587
+2021-06-01,Vancouver (BC),144473,1703
+2021-06-02,Portland (Multnomah Co),39720,627
+2021-06-02,Seattle (King Co),109859,1590
+2021-06-02,Vancouver (BC),144667,1707
+2021-06-03,Portland (Multnomah Co),39720,627
+2021-06-03,Seattle (King Co),109997,1593
+2021-06-03,Vancouver (BC),144866,1709
+2021-06-04,Portland (Multnomah Co),39805,628
+2021-06-04,Seattle (King Co),110119,1595
+2021-06-04,Vancouver (BC),145049,1710
+2021-06-05,Portland (Multnomah Co),39805,628
+2021-06-05,Seattle (King Co),110260,1595
+2021-06-05,Vancouver (BC),145266,1719
+2021-06-06,Portland (Multnomah Co),39822,628
+2021-06-06,Seattle (King Co),110340,1595
+2021-06-06,Vancouver (BC),145397,1720
+2021-06-07,Portland (Multnomah Co),39893,629
+2021-06-07,Seattle (King Co),110419,1591
+2021-06-07,Vancouver (BC),145530,1722
+2021-06-08,Portland (Multnomah Co),39893,629
+2021-06-08,Seattle (King Co),110567,1597
+2021-06-08,Vancouver (BC),145695,1722
+2021-06-09,Portland (Multnomah Co),39996,631
+2021-06-09,Seattle (King Co),110719,1606
+2021-06-09,Vancouver (BC),145843,1725
+2021-06-10,Portland (Multnomah Co),39996,631
+2021-06-10,Seattle (King Co),110871,1613
+2021-06-10,Vancouver (BC),145996,1729
+2021-06-11,Portland (Multnomah Co),40095,632
+2021-06-11,Seattle (King Co),110939,1616
+2021-06-11,Vancouver (BC),146176,1730
+2021-06-12,Portland (Multnomah Co),40095,632
+2021-06-12,Seattle (King Co),111051,1616
+2021-06-12,Vancouver (BC),146272,1730
+2021-06-13,Portland (Multnomah Co),40113,632
+2021-06-13,Seattle (King Co),111108,1617
+2021-06-13,Vancouver (BC),146385,1730
+2021-06-14,Portland (Multnomah Co),40141,632
+2021-06-14,Seattle (King Co),111166,1617
+2021-06-14,Vancouver (BC),146453,1734
+2021-06-15,Portland (Multnomah Co),40171,632
+2021-06-15,Seattle (King Co),111242,1619
+2021-06-15,Vancouver (BC),146561,1734
+2021-06-16,Portland (Multnomah Co),40278,635
+2021-06-16,Seattle (King Co),111353,1618
+2021-06-16,Vancouver (BC),146674,1738
+2021-06-17,Portland (Multnomah Co),40278,635
+2021-06-17,Seattle (King Co),111427,1613
+2021-06-17,Vancouver (BC),146794,1739
+2021-06-18,Portland (Multnomah Co),40280,635
+2021-06-18,Seattle (King Co),111511,1614
+2021-06-18,Vancouver (BC),146902,1740
+2021-06-19,Portland (Multnomah Co),40316,635
+2021-06-19,Seattle (King Co),111586,1618
+2021-06-19,Vancouver (BC),146996,1740
+2021-06-20,Portland (Multnomah Co),40354,635
+2021-06-20,Seattle (King Co),111648,1618
+2021-06-20,Vancouver (BC),147086,1740
+2021-06-21,Portland (Multnomah Co),40371,635
+2021-06-21,Seattle (King Co),111708,1618
+2021-06-21,Vancouver (BC),147131,1743
+2021-06-22,Portland (Multnomah Co),40396,635
+2021-06-22,Seattle (King Co),111759,1620
+2021-06-22,Vancouver (BC),147184,1743
+2021-06-23,Portland (Multnomah Co),40504,636
+2021-06-23,Seattle (King Co),112166,1652
+2021-06-23,Vancouver (BC),147271,1744
+2021-06-24,Portland (Multnomah Co),40504,636
+2021-06-24,Seattle (King Co),112250,1654
+2021-06-24,Vancouver (BC),147346,1747
+2021-06-25,Portland (Multnomah Co),40574,636
+2021-06-25,Seattle (King Co),112293,1660
+2021-06-25,Vancouver (BC),147418,1749
+2021-06-26,Portland (Multnomah Co),40574,636
+2021-06-26,Seattle (King Co),112380,1659
+2021-06-26,Vancouver (BC),147475,1749
+2021-06-27,Portland (Multnomah Co),40574,636
+2021-06-27,Seattle (King Co),112443,1659
+2021-06-27,Vancouver (BC),147511,1749
+2021-06-28,Portland (Multnomah Co),40616,638
+2021-06-28,Seattle (King Co),112482,1659
+2021-06-28,Vancouver (BC),147549,1754
+2021-06-29,Portland (Multnomah Co),40616,638
+2021-06-29,Seattle (King Co),112516,1659
+2021-06-29,Vancouver (BC),147578,1754
+2021-06-30,Portland (Multnomah Co),40616,638
+2021-06-30,Seattle (King Co),112567,1664
+2021-06-30,Vancouver (BC),147621,1754
+2021-07-01,Portland (Multnomah Co),40663,639
+2021-07-01,Seattle (King Co),112672,1665
+2021-07-01,Vancouver (BC),147670,1754
+2021-07-02,Portland (Multnomah Co),40663,639
+2021-07-02,Seattle (King Co),112751,1666
+2021-07-02,Vancouver (BC),147705,1756
+2021-07-03,Portland (Multnomah Co),40663,639
+2021-07-03,Seattle (King Co),112751,1666
+2021-07-03,Vancouver (BC),147735,1756
+2021-07-04,Portland (Multnomah Co),40663,639
+2021-07-04,Seattle (King Co),112751,1666
+2021-07-04,Vancouver (BC),147772,1756
+2021-07-05,Portland (Multnomah Co),40663,639
+2021-07-05,Seattle (King Co),112751,1666
+2021-07-05,Vancouver (BC),147790,1759
+2021-07-06,Portland (Multnomah Co),40748,639
+2021-07-06,Seattle (King Co),112996,1666
+2021-07-06,Vancouver (BC),147797,1759
+2021-07-07,Portland (Multnomah Co),40748,639
+2021-07-07,Seattle (King Co),113092,1672
+2021-07-07,Vancouver (BC),147856,1759
+2021-07-08,Portland (Multnomah Co),40798,639
+2021-07-08,Seattle (King Co),113207,1673
+2021-07-08,Vancouver (BC),147915,1760
+2021-07-09,Portland (Multnomah Co),40817,640
+2021-07-09,Seattle (King Co),113296,1674
+2021-07-09,Vancouver (BC),148031,1760
+2021-07-10,Portland (Multnomah Co),40817,640
+2021-07-10,Seattle (King Co),113296,1674
+2021-07-10,Vancouver (BC),148077,1760
+2021-07-11,Portland (Multnomah Co),40817,640
+2021-07-11,Seattle (King Co),113296,1674
+2021-07-11,Vancouver (BC),148124,1760
+2021-07-12,Portland (Multnomah Co),40894,641
+2021-07-12,Seattle (King Co),113660,1674
+2021-07-12,Vancouver (BC),148154,1760
+2021-07-13,Portland (Multnomah Co),40894,641
+2021-07-13,Seattle (King Co),113784,1680
+2021-07-13,Vancouver (BC),148187,1760
+2021-07-14,Portland (Multnomah Co),40917,642
+2021-07-14,Seattle (King Co),113955,1682
+2021-07-14,Vancouver (BC),148228,1760
+2021-07-15,Portland (Multnomah Co),40917,642
+2021-07-15,Seattle (King Co),114099,1683
+2021-07-15,Vancouver (BC),148286,1761
+2021-07-16,Portland (Multnomah Co),40982,642
+2021-07-16,Seattle (King Co),114231,1686
+2021-07-16,Vancouver (BC),148331,1761
+2021-07-17,Portland (Multnomah Co),40982,642
+2021-07-17,Seattle (King Co),114231,1686
+2021-07-17,Vancouver (BC),148387,1761
+2021-07-18,Portland (Multnomah Co),40982,642
+2021-07-18,Seattle (King Co),114231,1686
+2021-07-18,Vancouver (BC),148447,1761
+2021-07-19,Portland (Multnomah Co),41133,642
+2021-07-19,Seattle (King Co),114692,1686
+2021-07-19,Vancouver (BC),148487,1763
+2021-07-20,Portland (Multnomah Co),41161,642
+2021-07-20,Seattle (King Co),114750,1684
+2021-07-20,Vancouver (BC),148563,1763
+2021-07-21,Portland (Multnomah Co),41167,642
+2021-07-21,Seattle (King Co),114969,1684
+2021-07-21,Vancouver (BC),148641,1763
+2021-07-22,Portland (Multnomah Co),41221,642
+2021-07-22,Seattle (King Co),115234,1684
+2021-07-22,Vancouver (BC),148730,1763
+2021-07-23,Portland (Multnomah Co),41288,642
+2021-07-23,Seattle (King Co),115481,1684
+2021-07-23,Vancouver (BC),148842,1767
+2021-07-24,Portland (Multnomah Co),41288,642
+2021-07-24,Seattle (King Co),115481,1684
+2021-07-24,Vancouver (BC),148936,1767
+2021-07-25,Portland (Multnomah Co),41288,642
+2021-07-25,Seattle (King Co),115481,1684
+2021-07-25,Vancouver (BC),149015,1767
+2021-07-26,Portland (Multnomah Co),41482,642
+2021-07-26,Seattle (King Co),116199,1684
+2021-07-26,Vancouver (BC),149109,1768
+2021-07-27,Portland (Multnomah Co),41554,642
+2021-07-27,Seattle (King Co),116357,1684
+2021-07-27,Vancouver (BC),149259,1768
+2021-07-28,Portland (Multnomah Co),41633,642
+2021-07-28,Seattle (King Co),116680,1683
+2021-07-28,Vancouver (BC),149444,1771
+2021-07-29,Portland (Multnomah Co),41723,642
+2021-07-29,Seattle (King Co),116790,1683
+2021-07-29,Vancouver (BC),149646,1771
+2021-07-30,Portland (Multnomah Co),41855,642
+2021-07-30,Seattle (King Co),116839,1684
+2021-07-30,Vancouver (BC),149889,1771
+2021-07-31,Portland (Multnomah Co),41855,642
+2021-07-31,Seattle (King Co),116839,1684
+2021-07-31,Vancouver (BC),150049,1771
+2021-08-01,Portland (Multnomah Co),41855,642
+2021-08-01,Seattle (King Co),116839,1684
+2021-08-01,Vancouver (BC),150245,1771
+2021-08-02,Portland (Multnomah Co),42172,642
+2021-08-02,Seattle (King Co),117478,1684
+2021-08-02,Vancouver (BC),150430,1771
+2021-08-03,Portland (Multnomah Co),42285,642
+2021-08-03,Seattle (King Co),118747,1685
+2021-08-03,Vancouver (BC),150631,1772
+2021-08-04,Portland (Multnomah Co),42425,642
+2021-08-04,Seattle (King Co),119361,1686
+2021-08-04,Vancouver (BC),150973,1772
+2021-08-05,Portland (Multnomah Co),42596,642
+2021-08-05,Seattle (King Co),120000,1692
+2021-08-05,Vancouver (BC),151375,1772
+2021-08-06,Portland (Multnomah Co),42689,642
+2021-08-06,Seattle (King Co),120556,1690
+2021-08-06,Vancouver (BC),151839,1772
+2021-08-07,Portland (Multnomah Co),42689,642
+2021-08-07,Seattle (King Co),120556,1690
+2021-08-07,Vancouver (BC),152261,1772
+2021-08-08,Portland (Multnomah Co),42689,642
+2021-08-08,Seattle (King Co),120556,1690
+2021-08-08,Vancouver (BC),152625,1772
+2021-08-09,Portland (Multnomah Co),43222,642
+2021-08-09,Seattle (King Co),122130,1690
+2021-08-09,Vancouver (BC),152918,1777
+2021-08-10,Portland (Multnomah Co),43352,642
+2021-08-10,Seattle (King Co),122724,1698
+2021-08-10,Vancouver (BC),153313,1777
+2021-08-11,Portland (Multnomah Co),43504,642
+2021-08-11,Seattle (King Co),123332,1702
+2021-08-11,Vancouver (BC),153849,1778
+2021-08-12,Portland (Multnomah Co),43699,642
+2021-08-12,Seattle (King Co),124190,1702
+2021-08-12,Vancouver (BC),154362,1779
+2021-08-13,Portland (Multnomah Co),43831,642
+2021-08-13,Seattle (King Co),124954,1707
+2021-08-13,Vancouver (BC),155079,1779
+2021-08-14,Portland (Multnomah Co),43831,642
+2021-08-14,Seattle (King Co),124954,1707
+2021-08-14,Vancouver (BC),155611,1779
+2021-08-15,Portland (Multnomah Co),43831,642
+2021-08-15,Seattle (King Co),124954,1707
+2021-08-15,Vancouver (BC),156052,1779
+2021-08-16,Portland (Multnomah Co),44327,642
+2021-08-16,Seattle (King Co),126636,1707
+2021-08-16,Vancouver (BC),156513,1780
+2021-08-17,Portland (Multnomah Co),44472,642
+2021-08-17,Seattle (King Co),126931,1712
+2021-08-17,Vancouver (BC),157014,1781
+2021-08-18,Portland (Multnomah Co),44666,642
+2021-08-18,Seattle (King Co),127638,1718
+2021-08-18,Vancouver (BC),157567,1782
+2021-08-19,Portland (Multnomah Co),44891,642
+2021-08-19,Seattle (King Co),128490,1724
+2021-08-19,Vancouver (BC),158256,1784
+2021-08-20,Portland (Multnomah Co),45122,642
+2021-08-20,Seattle (King Co),129163,1725
+2021-08-20,Vancouver (BC),158919,1785
+2021-08-21,Portland (Multnomah Co),45122,642
+2021-08-21,Seattle (King Co),129163,1725
+2021-08-21,Vancouver (BC),159643,1785
+2021-08-22,Portland (Multnomah Co),45122,642
+2021-08-22,Seattle (King Co),129163,1725
+2021-08-22,Vancouver (BC),160188,1785
+2021-08-23,Portland (Multnomah Co),45701,642
+2021-08-23,Seattle (King Co),130915,1727
+2021-08-23,Vancouver (BC),160630,1801
+2021-08-24,Portland (Multnomah Co),45849,642
+2021-08-24,Seattle (King Co),131365,1734
+2021-08-24,Vancouver (BC),161271,1801
+2021-08-25,Portland (Multnomah Co),46112,642
+2021-08-25,Seattle (King Co),131889,1738
+2021-08-25,Vancouver (BC),161969,1802
+2021-08-26,Portland (Multnomah Co),46295,642
+2021-08-26,Seattle (King Co),132707,1750
+2021-08-26,Vancouver (BC),162693,1804
+2021-08-27,Portland (Multnomah Co),46532,642
+2021-08-27,Seattle (King Co),133649,1755
+2021-08-27,Vancouver (BC),163560,1807
+2021-08-28,Portland (Multnomah Co),46532,642
+2021-08-28,Seattle (King Co),133649,1755
+2021-08-28,Vancouver (BC),164329,1807
+2021-08-29,Portland (Multnomah Co),46532,642
+2021-08-29,Seattle (King Co),133649,1755
+2021-08-29,Vancouver (BC),164910,1807
+2021-08-30,Portland (Multnomah Co),47097,642
+2021-08-30,Seattle (King Co),135106,1759
+2021-08-30,Vancouver (BC),165413,1814
+2021-08-31,Portland (Multnomah Co),47305,642
+2021-08-31,Seattle (King Co),135633,1769
+2021-08-31,Vancouver (BC),166068,1816
+2021-09-01,Portland (Multnomah Co),47566,642
+2021-09-01,Seattle (King Co),136309,1773
+2021-09-01,Vancouver (BC),166853,1818
+2021-09-02,Portland (Multnomah Co),47813,642
+2021-09-02,Seattle (King Co),137269,1774
+2021-09-02,Vancouver (BC),167654,1824
+2021-09-03,Portland (Multnomah Co),48100,642
+2021-09-03,Seattle (King Co),137787,1778
+2021-09-03,Vancouver (BC),168325,1827
+2021-09-04,Portland (Multnomah Co),48100,642
+2021-09-04,Seattle (King Co),137787,1778
+2021-09-04,Vancouver (BC),168983,1827
+2021-09-05,Portland (Multnomah Co),48100,642
+2021-09-05,Seattle (King Co),137787,1778
+2021-09-05,Vancouver (BC),169617,1827
+2021-09-06,Portland (Multnomah Co),48100,642
+2021-09-06,Seattle (King Co),137787,1778
+2021-09-06,Vancouver (BC),170180,1827
+2021-09-07,Portland (Multnomah Co),48867,642
+2021-09-07,Seattle (King Co),139733,1782
+2021-09-07,Vancouver (BC),170750,1842
+2021-09-08,Portland (Multnomah Co),49010,642
+2021-09-08,Seattle (King Co),140295,1799
+2021-09-08,Vancouver (BC),171564,1842
+2021-09-09,Portland (Multnomah Co),49212,642
+2021-09-09,Seattle (King Co),140894,1810
+2021-09-09,Vancouver (BC),172338,1847
+2021-09-10,Portland (Multnomah Co),49451,642
+2021-09-10,Seattle (King Co),141772,1814
+2021-09-10,Vancouver (BC),173158,1856
+2021-09-11,Portland (Multnomah Co),49451,642
+2021-09-11,Seattle (King Co),141772,1814
+2021-09-11,Vancouver (BC),173981,1856
+2021-09-12,Portland (Multnomah Co),49451,642
+2021-09-12,Seattle (King Co),141772,1814
+2021-09-12,Vancouver (BC),174622,1856
+2021-09-13,Portland (Multnomah Co),50080,642
+2021-09-13,Seattle (King Co),143363,1818
+2021-09-13,Vancouver (BC),175142,1865
+2021-09-14,Portland (Multnomah Co),50234,642
+2021-09-14,Seattle (King Co),143726,1824
+2021-09-14,Vancouver (BC),175819,1866
+2021-09-15,Portland (Multnomah Co),50387,642
+2021-09-15,Seattle (King Co),144425,1829
+2021-09-15,Vancouver (BC),176480,1873
+2021-09-16,Portland (Multnomah Co),50628,642
+2021-09-16,Seattle (King Co),145048,1831
+2021-09-16,Vancouver (BC),177186,1877
+2021-09-17,Portland (Multnomah Co),50840,642
+2021-09-17,Seattle (King Co),145664,1837
+2021-09-17,Vancouver (BC),177954,1888
+2021-09-18,Portland (Multnomah Co),50840,642
+2021-09-18,Seattle (King Co),145664,1837
+2021-09-18,Vancouver (BC),178598,1888
+2021-09-19,Portland (Multnomah Co),50840,642
+2021-09-19,Seattle (King Co),145664,1837
+2021-09-19,Vancouver (BC),179211,1888
+2021-09-20,Portland (Multnomah Co),51245,642
+2021-09-20,Seattle (King Co),146838,1842
+2021-09-20,Vancouver (BC),179653,1899
+2021-09-21,Portland (Multnomah Co),51325,643
+2021-09-21,Seattle (King Co),147291,1851
+2021-09-21,Vancouver (BC),180178,1900
+2021-09-22,Portland (Multnomah Co),51616,643
+2021-09-22,Seattle (King Co),147404,1851
+2021-09-22,Vancouver (BC),180937,1910
+2021-09-23,Portland (Multnomah Co),51823,643
+2021-09-23,Seattle (King Co),148493,1856
+2021-09-23,Vancouver (BC),181798,1915
+2021-09-24,Portland (Multnomah Co),52083,644
+2021-09-24,Seattle (King Co),148955,1856
+2021-09-24,Vancouver (BC),182541,1922
+2021-09-25,Portland (Multnomah Co),52083,644
+2021-09-25,Seattle (King Co),148955,1856
+2021-09-25,Vancouver (BC),183417,1922
+2021-09-26,Portland (Multnomah Co),52083,644
+2021-09-26,Seattle (King Co),148955,1856
+2021-09-26,Vancouver (BC),184074,1922
+2021-09-27,Portland (Multnomah Co),52543,645
+2021-09-27,Seattle (King Co),150362,1868
+2021-09-27,Vancouver (BC),184780,1940
+2021-09-28,Portland (Multnomah Co),52638,648
+2021-09-28,Seattle (King Co),150688,1876
+2021-09-28,Vancouver (BC),185432,1942
+2021-09-29,Portland (Multnomah Co),52822,649
+2021-09-29,Seattle (King Co),151128,1885
+2021-09-29,Vancouver (BC),186245,1953
+2021-09-30,Portland (Multnomah Co),53026,650
+2021-09-30,Seattle (King Co),151648,1889
+2021-09-30,Vancouver (BC),186980,1962
+2021-10-01,Portland (Multnomah Co),53193,652
+2021-10-01,Seattle (King Co),152284,1897
+2021-10-01,Vancouver (BC),187694,1973
+2021-10-02,Portland (Multnomah Co),53193,652
+2021-10-02,Seattle (King Co),152284,1897
+2021-10-02,Vancouver (BC),188311,1973
+2021-10-03,Portland (Multnomah Co),53193,652
+2021-10-03,Seattle (King Co),152284,1897
+2021-10-03,Vancouver (BC),189018,1973
+2021-10-04,Portland (Multnomah Co),53661,652
+2021-10-04,Seattle (King Co),153568,1901
+2021-10-04,Vancouver (BC),189680,1983
+2021-10-05,Portland (Multnomah Co),53783,655
+2021-10-05,Seattle (King Co),153870,1907
+2021-10-05,Vancouver (BC),190372,1983
+2021-10-06,Portland (Multnomah Co),53894,657
+2021-10-06,Seattle (King Co),154419,1915
+2021-10-06,Vancouver (BC),191124,1992
+2021-10-07,Portland (Multnomah Co),54040,666
+2021-10-07,Seattle (King Co),154841,1915
+2021-10-07,Vancouver (BC),191748,1996
+2021-10-08,Portland (Multnomah Co),54202,668
+2021-10-08,Seattle (King Co),155328,1922
+2021-10-08,Vancouver (BC),192491,2001
+2021-10-09,Portland (Multnomah Co),54202,668
+2021-10-09,Seattle (King Co),155328,1922
+2021-10-09,Vancouver (BC),193094,2001
+2021-10-10,Portland (Multnomah Co),54202,668
+2021-10-10,Seattle (King Co),155328,1922
+2021-10-10,Vancouver (BC),193728,2001
+2021-10-11,Portland (Multnomah Co),54569,668
+2021-10-11,Seattle (King Co),156736,1927
+2021-10-11,Vancouver (BC),194196,2001
+2021-10-12,Portland (Multnomah Co),54651,678
+2021-10-12,Seattle (King Co),156949,1928
+2021-10-12,Vancouver (BC),194581,2029
+2021-10-13,Portland (Multnomah Co),54647,680
+2021-10-13,Seattle (King Co),157650,1931
+2021-10-13,Vancouver (BC),195186,2033
+2021-10-14,Portland (Multnomah Co),54701,686
+2021-10-14,Seattle (King Co),158074,1941
+2021-10-14,Vancouver (BC),195766,2042
+2021-10-15,Portland (Multnomah Co),54797,689
+2021-10-15,Seattle (King Co),158595,1944
+2021-10-15,Vancouver (BC),196433,2055
+2021-10-16,Portland (Multnomah Co),54797,689
+2021-10-16,Seattle (King Co),158595,1944
+2021-10-16,Vancouver (BC),197186,2055
+2021-10-17,Portland (Multnomah Co),54797,689
+2021-10-17,Seattle (King Co),158595,1944
+2021-10-17,Vancouver (BC),197835,2055
+2021-10-18,Portland (Multnomah Co),55306,692
+2021-10-18,Seattle (King Co),159587,1951
+2021-10-18,Vancouver (BC),198278,2081
+2021-10-19,Portland (Multnomah Co),55417,699
+2021-10-19,Seattle (King Co),159828,1958
+2021-10-19,Vancouver (BC),198838,2086
+2021-10-20,Portland (Multnomah Co),55528,700
+2021-10-20,Seattle (King Co),160402,1965
+2021-10-20,Vancouver (BC),199534,2092
+2021-10-21,Portland (Multnomah Co),55695,704
+2021-10-21,Seattle (King Co),160978,1969
+2021-10-21,Vancouver (BC),200249,2096
+2021-10-22,Portland (Multnomah Co),55810,707
+2021-10-22,Seattle (King Co),161408,1972
+2021-10-22,Vancouver (BC),200898,2109
+2021-10-23,Portland (Multnomah Co),55810,707
+2021-10-23,Seattle (King Co),161408,1972
+2021-10-23,Vancouver (BC),201511,2109
+2021-10-24,Portland (Multnomah Co),55810,707
+2021-10-24,Seattle (King Co),161408,1972
+2021-10-24,Vancouver (BC),202040,2109
+2021-10-25,Portland (Multnomah Co),56103,709
+2021-10-25,Seattle (King Co),162565,1976
+2021-10-25,Vancouver (BC),202516,2129
+2021-10-26,Portland (Multnomah Co),56287,712
+2021-10-26,Seattle (King Co),162711,1990
+2021-10-26,Vancouver (BC),202973,2131
+2021-10-27,Portland (Multnomah Co),56445,713
+2021-10-27,Seattle (King Co),163093,2000
+2021-10-27,Vancouver (BC),203572,2137
+2021-10-28,Portland (Multnomah Co),56549,718
+2021-10-28,Seattle (King Co),163797,2004
+2021-10-28,Vancouver (BC),204330,2147
+2021-10-29,Portland (Multnomah Co),56757,718
+2021-10-29,Seattle (King Co),164221,2009
+2021-10-29,Vancouver (BC),204914,2156
+2021-10-30,Portland (Multnomah Co),56757,718
+2021-10-30,Seattle (King Co),164221,2009
+2021-10-30,Vancouver (BC),205482,2156
+2021-10-31,Portland (Multnomah Co),56757,718
+2021-10-31,Seattle (King Co),164221,2009
+2021-10-31,Vancouver (BC),205952,2156
+2021-11-01,Portland (Multnomah Co),57170,718
+2021-11-01,Seattle (King Co),165186,2014
+2021-11-01,Vancouver (BC),206284,2181
+2021-11-02,Portland (Multnomah Co),57273,723
+2021-11-02,Seattle (King Co),165512,2024
+2021-11-02,Vancouver (BC),206690,2186
+2021-11-03,Portland (Multnomah Co),57399,732
+2021-11-03,Seattle (King Co),165899,2030
+2021-11-03,Vancouver (BC),207120,2192
+2021-11-04,Portland (Multnomah Co),57536,745
+2021-11-04,Seattle (King Co),166421,2035
+2021-11-04,Vancouver (BC),207716,2200
+2021-11-05,Portland (Multnomah Co),57661,746
+2021-11-05,Seattle (King Co),166674,2036
+2021-11-05,Vancouver (BC),208265,2201
+2021-11-06,Portland (Multnomah Co),57661,746
+2021-11-06,Seattle (King Co),166674,2036
+2021-11-06,Vancouver (BC),208818,2201
+2021-11-07,Portland (Multnomah Co),57661,746
+2021-11-07,Seattle (King Co),166674,2036
+2021-11-07,Vancouver (BC),209280,2201
+2021-11-08,Portland (Multnomah Co),58026,762
+2021-11-08,Seattle (King Co),167661,2045
+2021-11-08,Vancouver (BC),209703,2218
+2021-11-09,Portland (Multnomah Co),58121,765
+2021-11-09,Seattle (King Co),167817,2047
+2021-11-09,Vancouver (BC),210203,2223
+2021-11-10,Portland (Multnomah Co),58255,776
+2021-11-10,Seattle (King Co),168323,2049
+2021-11-10,Vancouver (BC),210758,2234
+2021-11-11,Portland (Multnomah Co),58255,776
+2021-11-11,Seattle (King Co),168323,2049
+2021-11-11,Vancouver (BC),211277,2234
+2021-11-12,Portland (Multnomah Co),58525,778
+2021-11-12,Seattle (King Co),168884,2052
+2021-11-12,Vancouver (BC),211750,2257
+2021-11-13,Portland (Multnomah Co),58525,778
+2021-11-13,Seattle (King Co),168884,2052
+2021-11-13,Vancouver (BC),212252,2257
+2021-11-14,Portland (Multnomah Co),58525,778
+2021-11-14,Seattle (King Co),168884,2052
+2021-11-14,Vancouver (BC),212639,2257
+2021-11-15,Portland (Multnomah Co),58827,792
+2021-11-15,Seattle (King Co),169719,2056
+2021-11-15,Vancouver (BC),213020,2273
+2021-11-16,Portland (Multnomah Co),58932,803
+2021-11-16,Seattle (King Co),169923,2059
+2021-11-16,Vancouver (BC),213358,2274
+2021-11-17,Portland (Multnomah Co),59041,805
+2021-11-17,Seattle (King Co),170363,2066
+2021-11-17,Vancouver (BC),213682,2281
+2021-11-18,Portland (Multnomah Co),59179,805
+2021-11-18,Seattle (King Co),170722,2067
+2021-11-18,Vancouver (BC),214150,2290
+2021-11-19,Portland (Multnomah Co),59319,809
+2021-11-19,Seattle (King Co),171009,2068
+2021-11-19,Vancouver (BC),214636,2293
+2021-11-20,Portland (Multnomah Co),59319,809
+2021-11-20,Seattle (King Co),171009,2068
+2021-11-20,Vancouver (BC),215026,2293
+2021-11-21,Portland (Multnomah Co),59319,809
+2021-11-21,Seattle (King Co),171009,2068
+2021-11-21,Vancouver (BC),215358,2293
+2021-11-22,Portland (Multnomah Co),59604,830
+2021-11-22,Seattle (King Co),171717,2072
+2021-11-22,Vancouver (BC),215677,2303
+2021-11-23,Portland (Multnomah Co),59683,833
+2021-11-23,Seattle (King Co),171837,2078
+2021-11-23,Vancouver (BC),216012,2304
+2021-11-24,Portland (Multnomah Co),59768,836
+2021-11-24,Seattle (King Co),172009,2081
+2021-11-24,Vancouver (BC),216334,2313
+2021-11-25,Portland (Multnomah Co),59768,836
+2021-11-25,Seattle (King Co),172009,2081
+2021-11-25,Vancouver (BC),216758,2316
+2021-11-26,Portland (Multnomah Co),59768,836
+2021-11-26,Seattle (King Co),172009,2081
+2021-11-26,Vancouver (BC),217099,2322
+2021-11-27,Portland (Multnomah Co),59768,836
+2021-11-27,Seattle (King Co),172009,2081
+2021-11-27,Vancouver (BC),217487,2322
+2021-11-28,Portland (Multnomah Co),59768,836
+2021-11-28,Seattle (King Co),172009,2081
+2021-11-28,Vancouver (BC),217796,2322
+2021-11-29,Portland (Multnomah Co),60179,836
+2021-11-29,Seattle (King Co),173060,2086
+2021-11-29,Vancouver (BC),218068,2333
+2021-11-30,Portland (Multnomah Co),60298,839
+2021-11-30,Seattle (King Co),173130,2086
+2021-11-30,Vancouver (BC),218426,2333
+2021-12-01,Portland (Multnomah Co),60432,839
+2021-12-01,Seattle (King Co),173948,2096
+2021-12-01,Vancouver (BC),218812,2340
+2021-12-02,Portland (Multnomah Co),60577,844
+2021-12-02,Seattle (King Co),174158,2098
+2021-12-02,Vancouver (BC),219180,2345
+2021-12-03,Portland (Multnomah Co),60720,847
+2021-12-03,Seattle (King Co),174550,2102
+2021-12-03,Vancouver (BC),219584,2351
+2021-12-04,Portland (Multnomah Co),60720,847
+2021-12-04,Seattle (King Co),174550,2102
+2021-12-04,Vancouver (BC),219935,2351
+2021-12-05,Portland (Multnomah Co),60720,847
+2021-12-05,Seattle (King Co),174550,2102
+2021-12-05,Vancouver (BC),220246,2351
+2021-12-06,Portland (Multnomah Co),61066,850
+2021-12-06,Seattle (King Co),175160,2115
+2021-12-06,Vancouver (BC),220530,2362
+2021-12-07,Portland (Multnomah Co),61160,856
+2021-12-07,Seattle (King Co),175548,2117
+2021-12-07,Vancouver (BC),220856,2363
+2021-12-08,Portland (Multnomah Co),61268,858
+2021-12-08,Seattle (King Co),175671,2118
+2021-12-08,Vancouver (BC),221235,2369
+2021-12-09,Portland (Multnomah Co),61503,861
+2021-12-09,Seattle (King Co),176320,2122
+2021-12-09,Vancouver (BC),221576,2378
+2021-12-10,Portland (Multnomah Co),61622,867
+2021-12-10,Seattle (King Co),176450,2127
+2021-12-10,Vancouver (BC),222013,2381
+2021-12-11,Portland (Multnomah Co),61622,867
+2021-12-11,Seattle (King Co),176450,2127
+2021-12-11,Vancouver (BC),222428,2381
+2021-12-12,Portland (Multnomah Co),61622,867
+2021-12-12,Seattle (King Co),176450,2127
+2021-12-12,Vancouver (BC),222793,2381
+2021-12-13,Portland (Multnomah Co),61838,876
+2021-12-13,Seattle (King Co),177441,2127
+2021-12-13,Vancouver (BC),223142,2386
+2021-12-14,Portland (Multnomah Co),61920,883
+2021-12-14,Seattle (King Co),177616,2129
+2021-12-14,Vancouver (BC),223661,2386
+2021-12-15,Portland (Multnomah Co),62042,890
+2021-12-15,Seattle (King Co),178066,2131
+2021-12-15,Vancouver (BC),224245,2393
+2021-12-16,Portland (Multnomah Co),62173,891
+2021-12-16,Seattle (King Co),178703,2135
+2021-12-16,Vancouver (BC),224998,2396
+2021-12-17,Portland (Multnomah Co),62375,891
+2021-12-17,Seattle (King Co),179396,2138
+2021-12-17,Vancouver (BC),225785,2399
+2021-12-18,Portland (Multnomah Co),62375,891
+2021-12-18,Seattle (King Co),179396,2138
+2021-12-18,Vancouver (BC),226696,2399
+2021-12-19,Portland (Multnomah Co),62375,891
+2021-12-19,Seattle (King Co),179396,2138
+2021-12-19,Vancouver (BC),227528,2399
+2021-12-20,Portland (Multnomah Co),62698,891
+2021-12-20,Seattle (King Co),181570,2139
+2021-12-20,Vancouver (BC),228335,2402
+2021-12-21,Portland (Multnomah Co),62889,893
+2021-12-21,Seattle (King Co),182420,2140
+2021-12-21,Vancouver (BC),229643,2403
+2021-12-22,Portland (Multnomah Co),63123,900
+2021-12-22,Seattle (King Co),183037,2144
+2021-12-22,Vancouver (BC),231171,2409
+2021-12-23,Portland (Multnomah Co),63468,900
+2021-12-23,Seattle (King Co),185916,2152
+2021-12-23,Vancouver (BC),233217,2410
+2021-12-24,Portland (Multnomah Co),63468,900
+2021-12-24,Seattle (King Co),185916,2152
+2021-12-24,Vancouver (BC),235658,2414
+2021-12-25,Portland (Multnomah Co),63468,900
+2021-12-25,Seattle (King Co),185916,2152
+2021-12-25,Vancouver (BC),238210,2414
+2021-12-26,Portland (Multnomah Co),63468,900
+2021-12-26,Seattle (King Co),185916,2152
+2021-12-26,Vancouver (BC),240233,2414
+2021-12-27,Portland (Multnomah Co),64497,900
+2021-12-27,Seattle (King Co),194215,2155
+2021-12-27,Vancouver (BC),241946,2414
+2021-12-28,Portland (Multnomah Co),64752,900
+2021-12-28,Seattle (King Co),196625,2158
+2021-12-28,Vancouver (BC),243731,2414
+2021-12-29,Portland (Multnomah Co),65174,902
+2021-12-29,Seattle (King Co),198517,2159
+2021-12-29,Vancouver (BC),246671,2419
+2021-12-30,Portland (Multnomah Co),65814,902
+2021-12-30,Seattle (King Co),200875,2164
+2021-12-30,Vancouver (BC),251054,2420
+2021-12-31,Portland (Multnomah Co),65814,902
+2021-12-31,Seattle (King Co),200875,2164
+2021-12-31,Vancouver (BC),254849,2423
+2022-01-01,Portland (Multnomah Co),65814,902
+2022-01-01,Seattle (King Co),200875,2164
+2022-01-01,Vancouver (BC),258882,2423
+2022-01-02,Portland (Multnomah Co),65814,902
+2022-01-02,Seattle (King Co),200875,2164
+2022-01-02,Vancouver (BC),261951,2423
+2022-01-03,Portland (Multnomah Co),68383,905
+2022-01-03,Seattle (King Co),212295,2167
+2022-01-03,Vancouver (BC),264181,2423
+2022-01-04,Portland (Multnomah Co),69166,911
+2022-01-04,Seattle (King Co),214904,2172
+2022-01-04,Vancouver (BC),266710,2427
+2022-01-05,Portland (Multnomah Co),70432,911
+2022-01-05,Seattle (King Co),218918,2178
+2022-01-05,Vancouver (BC),270508,2427
+2022-01-06,Portland (Multnomah Co),72032,914
+2022-01-06,Seattle (King Co),224612,2186
+2022-01-06,Vancouver (BC),273731,2430
+2022-01-07,Portland (Multnomah Co),74410,918
+2022-01-07,Seattle (King Co),229984,2199
+2022-01-07,Vancouver (BC),276875,2439
+2022-01-08,Portland (Multnomah Co),74410,918
+2022-01-08,Seattle (King Co),229984,2199
+2022-01-08,Vancouver (BC),279448,2439
+2022-01-09,Portland (Multnomah Co),74410,918
+2022-01-09,Seattle (King Co),229984,2199
+2022-01-09,Vancouver (BC),281735,2439
+2022-01-10,Portland (Multnomah Co),78797,921
+2022-01-10,Seattle (King Co),248777,2198
+2022-01-10,Vancouver (BC),283841,2446
+2022-01-11,Portland (Multnomah Co),80142,925
+2022-01-11,Seattle (King Co),254174,2213
+2022-01-11,Vancouver (BC),286080,2449
+2022-01-12,Portland (Multnomah Co),81598,930
+2022-01-12,Seattle (King Co),259422,2220
+2022-01-12,Vancouver (BC),288692,2455
+2022-01-13,Portland (Multnomah Co),83473,934
+2022-01-13,Seattle (King Co),264209,2222
+2022-01-13,Vancouver (BC),291246,2462
+2022-01-14,Portland (Multnomah Co),85131,935
+2022-01-14,Seattle (King Co),269433,2241
+2022-01-14,Vancouver (BC),293521,2468
+2022-01-15,Portland (Multnomah Co),85131,935
+2022-01-15,Seattle (King Co),269433,2241
+2022-01-15,Vancouver (BC),295904,2468
+2022-01-16,Portland (Multnomah Co),85131,935
+2022-01-16,Seattle (King Co),269433,2241
+2022-01-16,Vancouver (BC),297637,2468
+2022-01-17,Portland (Multnomah Co),85131,935
+2022-01-17,Seattle (King Co),269433,2241
+2022-01-17,Vancouver (BC),299146,2490
+2022-01-18,Portland (Multnomah Co),90126,934
+2022-01-18,Seattle (King Co),288810,2248
+2022-01-18,Vancouver (BC),301178,2492
+2022-01-19,Portland (Multnomah Co),91246,935
+2022-01-19,Seattle (King Co),293253,2270
+2022-01-19,Vancouver (BC),303565,2505
+2022-01-20,Portland (Multnomah Co),92679,935
+2022-01-20,Seattle (King Co),298790,2275
+2022-01-20,Vancouver (BC),305715,2520
+2022-01-21,Portland (Multnomah Co),94163,940
+2022-01-21,Seattle (King Co),302926,2276
+2022-01-21,Vancouver (BC),308079,2529
+2022-01-22,Portland (Multnomah Co),94163,940
+2022-01-22,Seattle (King Co),302926,2276
+2022-01-22,Vancouver (BC),310242,2529
+2022-01-23,Portland (Multnomah Co),94163,940
+2022-01-23,Seattle (King Co),302926,2276
+2022-01-23,Vancouver (BC),311731,2529
+2022-01-24,Portland (Multnomah Co),97106,944
+2022-01-24,Seattle (King Co),314592,2287
+2022-01-24,Vancouver (BC),313076,2553
+2022-01-25,Portland (Multnomah Co),97855,949
+2022-01-25,Seattle (King Co),319375,2301
+2022-01-25,Vancouver (BC),314787,2554
+2022-01-26,Portland (Multnomah Co),98786,956
+2022-01-26,Seattle (King Co),327961,2316
+2022-01-26,Vancouver (BC),316873,2575
+2022-01-27,Portland (Multnomah Co),99887,960
+2022-01-27,Seattle (King Co),330897,2313
+2022-01-27,Vancouver (BC),318906,2588
+2022-01-28,Portland (Multnomah Co),100812,963
+2022-01-28,Seattle (King Co),335376,2313
+2022-01-28,Vancouver (BC),320540,2597
+2022-01-29,Portland (Multnomah Co),100812,963
+2022-01-29,Seattle (King Co),335376,2313
+2022-01-29,Vancouver (BC),322265,2597
+2022-01-30,Portland (Multnomah Co),100812,963
+2022-01-30,Seattle (King Co),335376,2313
+2022-01-30,Vancouver (BC),323558,2597
+2022-01-31,Portland (Multnomah Co),102610,963
+2022-01-31,Seattle (King Co),346077,2330
+2022-01-31,Vancouver (BC),324615,2616
+2022-02-01,Portland (Multnomah Co),103280,964
+2022-02-01,Seattle (King Co),346077,2330
+2022-02-01,Vancouver (BC),325851,2625
+2022-02-02,Portland (Multnomah Co),103905,970
+2022-02-02,Seattle (King Co),349214,2361
+2022-02-02,Vancouver (BC),327625,2643
+2022-02-03,Portland (Multnomah Co),104497,970
+2022-02-03,Seattle (King Co),350701,2394
+2022-02-03,Vancouver (BC),329143,2656
+2022-02-04,Portland (Multnomah Co),105020,982
+2022-02-04,Seattle (King Co),351932,2401
+2022-02-04,Vancouver (BC),330638,2675
+2022-02-05,Portland (Multnomah Co),105020,982
+2022-02-05,Seattle (King Co),351932,2401
+2022-02-05,Vancouver (BC),331964,2675
+2022-02-06,Portland (Multnomah Co),105020,982
+2022-02-06,Seattle (King Co),351932,2401
+2022-02-06,Vancouver (BC),333082,2675
+2022-02-07,Portland (Multnomah Co),106231,991
+2022-02-07,Seattle (King Co),356001,2419
+2022-02-07,Vancouver (BC),333925,2707
+2022-02-08,Portland (Multnomah Co),106614,993
+2022-02-08,Seattle (King Co),356460,2431
+2022-02-08,Vancouver (BC),335042,2707
+2022-02-09,Portland (Multnomah Co),107011,1001
+2022-02-09,Seattle (King Co),357858,2447
+2022-02-09,Vancouver (BC),336229,2725
+2022-02-10,Portland (Multnomah Co),107436,1005
+2022-02-10,Seattle (King Co),360425,2453
+2022-02-10,Vancouver (BC),337547,2730
+2022-02-11,Portland (Multnomah Co),107740,1009
+2022-02-11,Seattle (King Co),361215,2467
+2022-02-11,Vancouver (BC),338585,2747
+2022-02-12,Portland (Multnomah Co),107740,1009
+2022-02-12,Seattle (King Co),361215,2467
+2022-02-12,Vancouver (BC),339736,2747
+2022-02-13,Portland (Multnomah Co),107740,1009
+2022-02-13,Seattle (King Co),361215,2467
+2022-02-13,Vancouver (BC),340619,2747
+2022-02-14,Portland (Multnomah Co),108500,1013
+2022-02-14,Seattle (King Co),361948,2484
+2022-02-14,Vancouver (BC),341286,2764
+2022-02-15,Portland (Multnomah Co),108689,1015
+2022-02-15,Seattle (King Co),361829,2484
+2022-02-15,Vancouver (BC),341532,2766
+2022-02-16,Portland (Multnomah Co),108896,1015
+2022-02-16,Seattle (King Co),362022,2500
+2022-02-16,Vancouver (BC),342282,2777
+2022-02-17,Portland (Multnomah Co),109197,1017
+2022-02-17,Seattle (King Co),362256,2517
+2022-02-17,Vancouver (BC),342939,2781
+2022-02-18,Portland (Multnomah Co),109428,1018
+2022-02-18,Seattle (King Co),362616,2526
+2022-02-18,Vancouver (BC),343631,2786
+2022-02-19,Portland (Multnomah Co),109428,1018
+2022-02-19,Seattle (King Co),362616,2526
+2022-02-19,Vancouver (BC),344262,2786
+2022-02-20,Portland (Multnomah Co),109428,1018
+2022-02-20,Seattle (King Co),362616,2526
+2022-02-20,Vancouver (BC),344833,2786
+2022-02-21,Portland (Multnomah Co),109428,1018
+2022-02-21,Seattle (King Co),362616,2526
+2022-02-21,Vancouver (BC),345257,2786
+2022-02-22,Portland (Multnomah Co),109934,1023
+2022-02-22,Seattle (King Co),364445,2532
+2022-02-22,Vancouver (BC),345734,2830
+2022-02-23,Portland (Multnomah Co),110096,1027
+2022-02-23,Seattle (King Co),364481,2541
+2022-02-23,Vancouver (BC),346196,2831
+2022-02-24,Portland (Multnomah Co),110224,1045
+2022-02-24,Seattle (King Co),364846,2540
+2022-02-24,Vancouver (BC),346793,2840
+2022-02-25,Portland (Multnomah Co),110368,1045
+2022-02-25,Seattle (King Co),364955,2553
+2022-02-25,Vancouver (BC),347331,2851
+2022-02-26,Portland (Multnomah Co),110368,1045
+2022-02-26,Seattle (King Co),364955,2553
+2022-02-26,Vancouver (BC),347729,2851
+2022-02-27,Portland (Multnomah Co),110368,1045
+2022-02-27,Seattle (King Co),364955,2553
+2022-02-27,Vancouver (BC),348026,2851
+2022-02-28,Portland (Multnomah Co),110697,1050
+2022-02-28,Seattle (King Co),365873,2569
+2022-02-28,Vancouver (BC),348305,2873
+2022-03-01,Portland (Multnomah Co),110800,1054
+2022-03-01,Seattle (King Co),365873,2569
+2022-03-01,Vancouver (BC),348771,2873
+2022-03-02,Portland (Multnomah Co),110916,1054
+2022-03-02,Seattle (King Co),366645,2577
+2022-03-02,Vancouver (BC),349213,2883
+2022-03-03,Portland (Multnomah Co),111056,1061
+2022-03-03,Seattle (King Co),366645,2577
+2022-03-03,Vancouver (BC),349604,2896
+2022-03-04,Portland (Multnomah Co),111223,1062
+2022-03-04,Seattle (King Co),367328,2593
+2022-03-04,Vancouver (BC),349944,2903
+2022-03-05,Portland (Multnomah Co),111223,1062
+2022-03-05,Seattle (King Co),367328,2593
+2022-03-05,Vancouver (BC),350329,2903
+2022-03-06,Portland (Multnomah Co),111223,1062
+2022-03-06,Seattle (King Co),367328,2593
+2022-03-06,Vancouver (BC),350656,2903
+2022-03-07,Portland (Multnomah Co),111440,1069
+2022-03-07,Seattle (King Co),367807,2593
+2022-03-07,Vancouver (BC),350941,2914
+2022-03-08,Portland (Multnomah Co),111494,1074
+2022-03-08,Seattle (King Co),367807,2593
+2022-03-08,Vancouver (BC),351141,2915
+2022-03-09,Portland (Multnomah Co),111582,1079
+2022-03-09,Seattle (King Co),368391,2620
+2022-03-09,Vancouver (BC),351415,2929
+2022-03-10,Portland (Multnomah Co),111644,1094
+2022-03-10,Seattle (King Co),368391,2620
+2022-03-10,Vancouver (BC),351751,2932
+2022-03-11,Portland (Multnomah Co),111747,1098
+2022-03-11,Seattle (King Co),369046,2631
+2022-03-11,Vancouver (BC),352039,2932
+2022-03-12,Portland (Multnomah Co),111747,1098
+2022-03-12,Seattle (King Co),369046,2631
+2022-03-12,Vancouver (BC),352319,2932
+2022-03-13,Portland (Multnomah Co),111747,1098
+2022-03-13,Seattle (King Co),369046,2631
+2022-03-13,Vancouver (BC),352530,2932
+2022-03-14,Portland (Multnomah Co),111911,1099
+2022-03-14,Seattle (King Co),369599,2635
+2022-03-14,Vancouver (BC),352728,2946
+2022-03-15,Portland (Multnomah Co),111984,1102
+2022-03-15,Seattle (King Co),369599,2635
+2022-03-15,Vancouver (BC),352904,2946
+2022-03-16,Portland (Multnomah Co),112053,1105
+2022-03-16,Seattle (King Co),370114,2649
+2022-03-16,Vancouver (BC),353139,2953
+2022-03-17,Portland (Multnomah Co),112116,1108
+2022-03-17,Seattle (King Co),370114,2649
+2022-03-17,Vancouver (BC),353379,2960
+2022-03-18,Portland (Multnomah Co),112182,1108
+2022-03-18,Seattle (King Co),370694,2659
+2022-03-18,Vancouver (BC),353578,2966
+2022-03-19,Portland (Multnomah Co),112182,1108
+2022-03-19,Seattle (King Co),370694,2659
+2022-03-19,Vancouver (BC),353778,2966
+2022-03-20,Portland (Multnomah Co),112182,1108
+2022-03-20,Seattle (King Co),370694,2659
+2022-03-20,Vancouver (BC),353948,2966
+2022-03-21,Portland (Multnomah Co),112315,1108
+2022-03-21,Seattle (King Co),371216,2658
+2022-03-21,Vancouver (BC),354084,2974
+2022-03-22,Portland (Multnomah Co),112369,1108
+2022-03-22,Seattle (King Co),371216,2658
+2022-03-22,Vancouver (BC),354334,2974
+2022-03-23,Portland (Multnomah Co),112471,1116
+2022-03-23,Seattle (King Co),371678,2679
+2022-03-23,Vancouver (BC),354603,2975
+2022-03-24,Portland (Multnomah Co),112554,1118
+2022-03-24,Seattle (King Co),371678,2679
+2022-03-24,Vancouver (BC),354874,2981
+2022-03-25,Portland (Multnomah Co),112610,1118
+2022-03-25,Seattle (King Co),372411,2684
+2022-03-25,Vancouver (BC),355092,2983
+2022-03-26,Portland (Multnomah Co),112610,1118
+2022-03-26,Seattle (King Co),372411,2684
+2022-03-26,Vancouver (BC),355299,2983
+2022-03-27,Portland (Multnomah Co),112610,1118
+2022-03-27,Seattle (King Co),372411,2684
+2022-03-27,Vancouver (BC),355496,2983
+2022-03-28,Portland (Multnomah Co),112771,1122
+2022-03-28,Seattle (King Co),373239,2690
+2022-03-28,Vancouver (BC),355648,2989
+2022-03-29,Portland (Multnomah Co),112871,1131
+2022-03-29,Seattle (King Co),373239,2690
+2022-03-29,Vancouver (BC),355935,2990
+2022-03-30,Portland (Multnomah Co),112976,1133
+2022-03-30,Seattle (King Co),373931,2699
+2022-03-30,Vancouver (BC),356252,2996
+2022-03-31,Portland (Multnomah Co),113064,1135
+2022-03-31,Seattle (King Co),373931,2699
+2022-03-31,Vancouver (BC),356501,2998
+2022-04-01,Portland (Multnomah Co),113186,1135
+2022-04-01,Seattle (King Co),374748,2703
+2022-04-01,Vancouver (BC),356858,3002
+2022-04-02,Portland (Multnomah Co),113186,1135
+2022-04-02,Seattle (King Co),374748,2703
+2022-04-02,Vancouver (BC),357242,3004
+2022-04-03,Portland (Multnomah Co),113186,1135
+2022-04-03,Seattle (King Co),374748,2703
+2022-04-03,Vancouver (BC),357331,3004
+2022-04-04,Portland (Multnomah Co),113388,1149
+2022-04-04,Seattle (King Co),375676,2705
+2022-04-04,Vancouver (BC),357500,3004
+2022-04-05,Portland (Multnomah Co),113492,1151
+2022-04-05,Seattle (King Co),375676,2705
+2022-04-05,Vancouver (BC),357758,3004
+2022-04-06,Portland (Multnomah Co),113604,1152
+2022-04-06,Seattle (King Co),378891,2706
+2022-04-06,Vancouver (BC),357974,3004
+2022-04-07,Portland (Multnomah Co),113739,1163
+2022-04-07,Seattle (King Co),378891,2706
+2022-04-07,Vancouver (BC),357974,3004
+2022-04-08,Portland (Multnomah Co),113905,1167
+2022-04-08,Seattle (King Co),380229,2712
+2022-04-08,Vancouver (BC),357974,3004
+2022-04-09,Portland (Multnomah Co),113905,1167
+2022-04-09,Seattle (King Co),380229,2712
+2022-04-09,Vancouver (BC),359002,3036
+2022-04-10,Portland (Multnomah Co),113905,1167
+2022-04-10,Seattle (King Co),380229,2712
+2022-04-10,Vancouver (BC),359002,3036
+2022-04-11,Portland (Multnomah Co),114232,1172
+2022-04-11,Seattle (King Co),381614,2716
+2022-04-11,Vancouver (BC),359002,3036
+2022-04-12,Portland (Multnomah Co),114392,1186
+2022-04-12,Seattle (King Co),381614,2716
+2022-04-12,Vancouver (BC),359002,3036
+2022-04-13,Portland (Multnomah Co),114560,1188
+2022-04-13,Seattle (King Co),382806,2717
+2022-04-13,Vancouver (BC),359002,3036
+2022-04-14,Portland (Multnomah Co),114782,1189
+2022-04-14,Seattle (King Co),382806,2717
+2022-04-14,Vancouver (BC),359002,3036
+2022-04-15,Portland (Multnomah Co),114945,1191
+2022-04-15,Seattle (King Co),384353,2724
+2022-04-15,Vancouver (BC),359002,3036
+2022-04-16,Portland (Multnomah Co),114945,1191
+2022-04-16,Seattle (King Co),384353,2724
+2022-04-16,Vancouver (BC),361034,3077
+2022-04-17,Portland (Multnomah Co),114945,1191
+2022-04-17,Seattle (King Co),384353,2724
+2022-04-17,Vancouver (BC),361034,3077
+2022-04-18,Portland (Multnomah Co),114945,1191
+2022-04-18,Seattle (King Co),386023,2724
+2022-04-18,Vancouver (BC),361034,3077
+2022-04-19,Portland (Multnomah Co),115725,1191
+2022-04-19,Seattle (King Co),386023,2724
+2022-04-19,Vancouver (BC),361034,3077
+2022-04-20,Portland (Multnomah Co),116028,1192
+2022-04-20,Seattle (King Co),386808,2730
+2022-04-20,Vancouver (BC),361034,3077
+2022-04-21,Portland (Multnomah Co),116347,1193
+2022-04-21,Seattle (King Co),386808,2730
+2022-04-21,Vancouver (BC),361034,3077
+2022-04-22,Portland (Multnomah Co),116609,1193
+2022-04-22,Seattle (King Co),388710,2733
+2022-04-22,Vancouver (BC),361034,3077
+2022-04-23,Portland (Multnomah Co),116609,1193
+2022-04-23,Seattle (King Co),388710,2733
+2022-04-23,Vancouver (BC),363302,3147
+2022-04-24,Portland (Multnomah Co),116609,1193
+2022-04-24,Seattle (King Co),388710,2733
+2022-04-24,Vancouver (BC),363302,3147
+2022-04-25,Portland (Multnomah Co),117320,1194
+2022-04-25,Seattle (King Co),391842,2735
+2022-04-25,Vancouver (BC),363302,3147
+2022-04-26,Portland (Multnomah Co),117641,1194
+2022-04-26,Seattle (King Co),391842,2735
+2022-04-26,Vancouver (BC),363302,3147
+2022-04-27,Portland (Multnomah Co),117984,1195
+2022-04-27,Seattle (King Co),393274,2736
+2022-04-27,Vancouver (BC),363302,3147
+2022-04-28,Portland (Multnomah Co),118394,1195
+2022-04-28,Seattle (King Co),393274,2736
+2022-04-28,Vancouver (BC),363302,3147
+2022-04-29,Portland (Multnomah Co),118940,1195
+2022-04-29,Seattle (King Co),395392,2740
+2022-04-29,Vancouver (BC),363302,3147
+2022-04-30,Portland (Multnomah Co),118940,1195
+2022-04-30,Seattle (King Co),395392,2740
+2022-04-30,Vancouver (BC),365577,3226
+2022-05-01,Portland (Multnomah Co),118940,1195
+2022-05-01,Seattle (King Co),395392,2740
+2022-05-01,Vancouver (BC),365577,3226
+2022-05-02,Portland (Multnomah Co),119638,1195
+2022-05-02,Seattle (King Co),400290,2741
+2022-05-02,Vancouver (BC),365577,3226
+2022-05-03,Portland (Multnomah Co),120198,1197
+2022-05-03,Seattle (King Co),400290,2741
+2022-05-03,Vancouver (BC),365577,3226
+2022-05-04,Portland (Multnomah Co),120585,1199
+2022-05-04,Seattle (King Co),400183,2750
+2022-05-04,Vancouver (BC),365577,3226
+2022-05-05,Portland (Multnomah Co),121078,1199
+2022-05-05,Seattle (King Co),400183,2750
+2022-05-05,Vancouver (BC),365577,3226
+2022-05-06,Portland (Multnomah Co),121435,1201
+2022-05-06,Seattle (King Co),402422,2754
+2022-05-06,Vancouver (BC),365577,3226
+2022-05-07,Portland (Multnomah Co),121435,1201
+2022-05-07,Seattle (King Co),402422,2754
+2022-05-07,Vancouver (BC),367559,3307
+2022-05-08,Portland (Multnomah Co),121435,1201
+2022-05-08,Seattle (King Co),402422,2754
+2022-05-08,Vancouver (BC),367559,3307
+2022-05-09,Portland (Multnomah Co),122257,1203
+2022-05-09,Seattle (King Co),405165,2757
+2022-05-09,Vancouver (BC),367559,3307
+2022-05-10,Portland (Multnomah Co),122650,1203
+2022-05-10,Seattle (King Co),405165,2757
+2022-05-10,Vancouver (BC),367559,3307
+2022-05-11,Portland (Multnomah Co),123025,1203
+2022-05-11,Seattle (King Co),407538,2765
+2022-05-11,Vancouver (BC),367559,3307
+2022-05-12,Portland (Multnomah Co),123448,1206
+2022-05-12,Seattle (King Co),407538,2765
+2022-05-12,Vancouver (BC),367559,3307
+2022-05-13,Portland (Multnomah Co),123906,1207
+2022-05-13,Seattle (King Co),410322,2774
+2022-05-13,Vancouver (BC),367559,3307
+2022-05-14,Portland (Multnomah Co),123906,1207
+2022-05-14,Seattle (King Co),410322,2774
+2022-05-14,Vancouver (BC),369202,3398
+2022-05-15,Portland (Multnomah Co),123906,1207
+2022-05-15,Seattle (King Co),410322,2774
+2022-05-15,Vancouver (BC),369202,3398
+2022-05-16,Portland (Multnomah Co),124772,1208
+2022-05-16,Seattle (King Co),413359,2775
+2022-05-16,Vancouver (BC),369202,3398
+2022-05-17,Portland (Multnomah Co),125217,1208
+2022-05-17,Seattle (King Co),413359,2775
+2022-05-17,Vancouver (BC),369202,3398
+2022-05-18,Portland (Multnomah Co),125633,1208
+2022-05-18,Seattle (King Co),416050,2781
+2022-05-18,Vancouver (BC),369202,3398
+2022-05-19,Portland (Multnomah Co),126027,1210
+2022-05-19,Seattle (King Co),416050,2781
+2022-05-19,Vancouver (BC),369202,3398
+2022-05-20,Portland (Multnomah Co),126733,1211
+2022-05-20,Seattle (King Co),419203,2781
+2022-05-20,Vancouver (BC),369202,3398
+2022-05-21,Portland (Multnomah Co),126733,1211
+2022-05-21,Seattle (King Co),419203,2781
+2022-05-21,Vancouver (BC),370559,3469
+2022-05-22,Portland (Multnomah Co),126733,1211
+2022-05-22,Seattle (King Co),419203,2781
+2022-05-22,Vancouver (BC),370559,3469
+2022-05-23,Portland (Multnomah Co),127883,1211
+2022-05-23,Seattle (King Co),422479,2786
+2022-05-23,Vancouver (BC),370559,3469
+2022-05-24,Portland (Multnomah Co),128341,1213
+2022-05-24,Seattle (King Co),422479,2786
+2022-05-24,Vancouver (BC),370559,3469
+2022-05-25,Portland (Multnomah Co),128709,1215
+2022-05-25,Seattle (King Co),425488,2797
+2022-05-25,Vancouver (BC),370559,3469
+2022-05-26,Portland (Multnomah Co),129149,1215
+2022-05-26,Seattle (King Co),425488,2797
+2022-05-26,Vancouver (BC),370559,3469
+2022-05-27,Portland (Multnomah Co),129613,1215
+2022-05-27,Seattle (King Co),428791,2810
+2022-05-27,Vancouver (BC),370559,3469
+2022-05-28,Portland (Multnomah Co),129613,1215
+2022-05-28,Seattle (King Co),428791,2810
+2022-05-28,Vancouver (BC),371720,3547
+2022-05-29,Portland (Multnomah Co),129613,1215
+2022-05-29,Seattle (King Co),428791,2810
+2022-05-29,Vancouver (BC),371720,3547
+2022-05-30,Portland (Multnomah Co),129613,1215
+2022-05-30,Seattle (King Co),428791,2810
+2022-05-30,Vancouver (BC),371720,3547
+2022-05-31,Portland (Multnomah Co),130865,1219
+2022-05-31,Seattle (King Co),432616,2810
+2022-05-31,Vancouver (BC),371720,3547
+2022-06-01,Portland (Multnomah Co),131201,1219
+2022-06-01,Seattle (King Co),433139,2818
+2022-06-01,Vancouver (BC),371720,3547
+2022-06-02,Portland (Multnomah Co),131619,1219
+2022-06-02,Seattle (King Co),433139,2818
+2022-06-02,Vancouver (BC),371720,3547
+2022-06-03,Portland (Multnomah Co),131875,1224
+2022-06-03,Seattle (King Co),437126,2824
+2022-06-03,Vancouver (BC),371720,3547
+2022-06-04,Portland (Multnomah Co),131875,1224
+2022-06-04,Seattle (King Co),437126,2824
+2022-06-04,Vancouver (BC),372611,3614
+2022-06-05,Portland (Multnomah Co),131875,1224
+2022-06-05,Seattle (King Co),437126,2824
+2022-06-05,Vancouver (BC),372611,3614
+2022-06-06,Portland (Multnomah Co),132946,1224
+2022-06-06,Seattle (King Co),440893,2828
+2022-06-06,Vancouver (BC),372611,3614
+2022-06-07,Portland (Multnomah Co),133346,1226
+2022-06-07,Seattle (King Co),440893,2828
+2022-06-07,Vancouver (BC),372611,3614
+2022-06-08,Portland (Multnomah Co),133625,1226
+2022-06-08,Seattle (King Co),442960,2837
+2022-06-08,Vancouver (BC),372611,3614
+2022-06-09,Portland (Multnomah Co),134140,1226
+2022-06-09,Seattle (King Co),442960,2837
+2022-06-10,Portland (Multnomah Co),134410,1228
+2022-06-10,Seattle (King Co),444629,2849
+2022-06-11,Portland (Multnomah Co),134410,1228
+2022-06-11,Seattle (King Co),444629,2849
+2022-06-11,Vancouver (BC),373336,3682
+2022-06-12,Portland (Multnomah Co),134410,1228
+2022-06-12,Seattle (King Co),444629,2849
+2022-06-13,Portland (Multnomah Co),135411,1233
+2022-06-13,Seattle (King Co),446959,2852
+2022-06-14,Portland (Multnomah Co),135769,1233
+2022-06-14,Seattle (King Co),446959,2852
+2022-06-15,Portland (Multnomah Co),136104,1235
+2022-06-15,Seattle (King Co),449029,2859
+2022-06-16,Portland (Multnomah Co),136442,1235
+2022-06-16,Seattle (King Co),449029,2859
+2022-06-17,Portland (Multnomah Co),136795,1237
+2022-06-17,Seattle (King Co),451661,2864
+2022-06-18,Portland (Multnomah Co),136795,1237
+2022-06-18,Seattle (King Co),451661,2864
+2022-06-18,Vancouver (BC),373974,3722
+2022-06-19,Portland (Multnomah Co),136795,1237
+2022-06-19,Seattle (King Co),451661,2864
+2022-06-20,Portland (Multnomah Co),136795,1237
+2022-06-20,Seattle (King Co),451661,2864
+2022-06-21,Portland (Multnomah Co),137717,1237
+2022-06-21,Seattle (King Co),455331,2872
+2022-06-22,Portland (Multnomah Co),138254,1240
+2022-06-22,Seattle (King Co),456574,2875
+2022-06-23,Portland (Multnomah Co),138862,1243
+2022-06-23,Seattle (King Co),456574,2875
+2022-06-24,Portland (Multnomah Co),139210,1245
+2022-06-24,Seattle (King Co),458893,2878
+2022-06-25,Portland (Multnomah Co),139210,1245
+2022-06-25,Seattle (King Co),458893,2878
+2022-06-25,Vancouver (BC),374594,3747
+2022-06-26,Portland (Multnomah Co),139210,1245
+2022-06-26,Seattle (King Co),458893,2878
+2022-06-27,Portland (Multnomah Co),140027,1246
+2022-06-27,Seattle (King Co),461900,2882
+2022-06-28,Portland (Multnomah Co),140396,1246
+2022-06-28,Seattle (King Co),461900,2882
+2022-06-29,Portland (Multnomah Co),140770,1246
+2022-06-29,Seattle (King Co),463634,2891
+2022-06-30,Portland (Multnomah Co),141103,1247
+2022-06-30,Seattle (King Co),463634,2891
+2022-07-01,Portland (Multnomah Co),141379,1247
+2022-07-01,Seattle (King Co),466368,2900
+2022-07-02,Portland (Multnomah Co),141379,1247
+2022-07-02,Seattle (King Co),466368,2900
+2022-07-02,Vancouver (BC),375357,3788
+2022-07-03,Portland (Multnomah Co),141379,1247
+2022-07-03,Seattle (King Co),466368,2900
+2022-07-04,Portland (Multnomah Co),141379,1247
+2022-07-04,Seattle (King Co),466368,2900
+2022-07-05,Portland (Multnomah Co),142507,1247
+2022-07-05,Seattle (King Co),469850,2910
+2022-07-06,Portland (Multnomah Co),142875,1248
+2022-07-06,Seattle (King Co),471079,2916
+2022-07-07,Portland (Multnomah Co),143188,1247
+2022-07-07,Seattle (King Co),471079,2916
+2022-07-08,Portland (Multnomah Co),143579,1252
+2022-07-08,Seattle (King Co),473731,2930
+2022-07-09,Portland (Multnomah Co),143579,1252
+2022-07-09,Seattle (King Co),473731,2930
+2022-07-09,Vancouver (BC),376329,3823
+2022-07-10,Portland (Multnomah Co),143579,1252
+2022-07-10,Seattle (King Co),473731,2930
+2022-07-11,Portland (Multnomah Co),144312,1253
+2022-07-11,Seattle (King Co),476602,2933
+2022-07-12,Portland (Multnomah Co),144685,1257
+2022-07-12,Seattle (King Co),476602,2933
+2022-07-13,Portland (Multnomah Co),145051,1260
+2022-07-13,Seattle (King Co),477572,2944
+2022-07-14,Portland (Multnomah Co),145264,1265
+2022-07-14,Seattle (King Co),477572,2944
+2022-07-15,Portland (Multnomah Co),145778,1269
+2022-07-15,Seattle (King Co),479987,2955
+2022-07-16,Portland (Multnomah Co),145778,1269
+2022-07-16,Seattle (King Co),479987,2955
+2022-07-16,Vancouver (BC),377372,3855
+2022-07-17,Portland (Multnomah Co),145778,1269
+2022-07-17,Seattle (King Co),479987,2955
+2022-07-18,Portland (Multnomah Co),146460,1276
+2022-07-18,Seattle (King Co),482510,2959
+2022-07-19,Portland (Multnomah Co),146761,1279
+2022-07-19,Seattle (King Co),482510,2959
+2022-07-20,Portland (Multnomah Co),147060,1283
+2022-07-20,Seattle (King Co),483883,2968
+2022-07-21,Portland (Multnomah Co),147437,1286
+2022-07-21,Seattle (King Co),483883,2968
+2022-07-22,Portland (Multnomah Co),147739,1289
+2022-07-22,Seattle (King Co),486139,2975
+2022-07-23,Portland (Multnomah Co),147739,1289
+2022-07-23,Seattle (King Co),486139,2975
+2022-07-23,Vancouver (BC),378291,3908
+2022-07-24,Portland (Multnomah Co),147739,1289
+2022-07-24,Seattle (King Co),486139,2975
+2022-07-25,Portland (Multnomah Co),148342,1288
+2022-07-25,Seattle (King Co),487951,2977
+2022-07-26,Portland (Multnomah Co),148614,1288
+2022-07-26,Seattle (King Co),487951,2977
+2022-07-27,Portland (Multnomah Co),148844,1294
+2022-07-27,Seattle (King Co),489256,2989
+2022-07-28,Portland (Multnomah Co),148935,1297
+2022-07-28,Seattle (King Co),489256,2989
+2022-07-29,Portland (Multnomah Co),149221,1303
+2022-07-29,Seattle (King Co),490969,2997
+2022-07-30,Portland (Multnomah Co),149221,1303
+2022-07-30,Seattle (King Co),490969,2997
+2022-07-30,Vancouver (BC),379274,3940
+2022-07-31,Portland (Multnomah Co),149221,1303
+2022-07-31,Seattle (King Co),490969,2997
+2022-08-01,Portland (Multnomah Co),149815,1309
+2022-08-01,Seattle (King Co),492736,3002
+2022-08-02,Portland (Multnomah Co),149908,1315
+2022-08-02,Seattle (King Co),492736,3002
+2022-08-03,Portland (Multnomah Co),150362,1320
+2022-08-03,Seattle (King Co),493783,3009
+2022-08-04,Portland (Multnomah Co),150569,1322
+2022-08-04,Seattle (King Co),493783,3009
+2022-08-05,Portland (Multnomah Co),150860,1327
+2022-08-05,Seattle (King Co),495203,3015
+2022-08-06,Portland (Multnomah Co),150860,1327
+2022-08-06,Seattle (King Co),495203,3015
+2022-08-06,Vancouver (BC),380174,3995
+2022-08-07,Portland (Multnomah Co),150860,1327
+2022-08-07,Seattle (King Co),495203,3015
+2022-08-08,Portland (Multnomah Co),151237,1328
+2022-08-08,Seattle (King Co),496692,3018
+2022-08-09,Portland (Multnomah Co),151477,1331
+2022-08-09,Seattle (King Co),496692,3018
+2022-08-10,Portland (Multnomah Co),151647,1334
+2022-08-10,Seattle (King Co),497906,3032
+2022-08-11,Portland (Multnomah Co),151840,1334
+2022-08-11,Seattle (King Co),497906,3032
+2022-08-12,Portland (Multnomah Co),152000,1336
+2022-08-12,Seattle (King Co),499129,3048
+2022-08-13,Portland (Multnomah Co),152000,1336
+2022-08-13,Seattle (King Co),499129,3048
+2022-08-13,Vancouver (BC),381049,4037
+2022-08-14,Portland (Multnomah Co),152000,1336
+2022-08-14,Seattle (King Co),499129,3048
+2022-08-15,Portland (Multnomah Co),152406,1342
+2022-08-15,Seattle (King Co),500475,3052
+2022-08-16,Portland (Multnomah Co),152587,1346
+2022-08-16,Seattle (King Co),500475,3052
+2022-08-17,Portland (Multnomah Co),152761,1351
+2022-08-17,Seattle (King Co),501317,3062
+2022-08-18,Portland (Multnomah Co),152903,1352
+2022-08-18,Seattle (King Co),501317,3062
+2022-08-19,Portland (Multnomah Co),153087,1356
+2022-08-19,Seattle (King Co),502369,3073
+2022-08-20,Portland (Multnomah Co),153087,1356
+2022-08-20,Seattle (King Co),502369,3073
+2022-08-20,Vancouver (BC),381788,4097
+2022-08-21,Portland (Multnomah Co),153087,1356
+2022-08-21,Seattle (King Co),502369,3073
+2022-08-22,Portland (Multnomah Co),153370,1359
+2022-08-22,Seattle (King Co),503398,3078
+2022-08-23,Portland (Multnomah Co),153524,1360
+2022-08-23,Seattle (King Co),503398,3078
+2022-08-24,Portland (Multnomah Co),153666,1360
+2022-08-24,Seattle (King Co),504232,3088
+2022-08-25,Portland (Multnomah Co),153792,1360
+2022-08-25,Seattle (King Co),504232,3088
+2022-08-26,Portland (Multnomah Co),153907,1361
+2022-08-26,Seattle (King Co),505296,3095
+2022-08-27,Portland (Multnomah Co),153907,1361
+2022-08-27,Seattle (King Co),505296,3095
+2022-08-27,Vancouver (BC),382436,4145
+2022-08-28,Portland (Multnomah Co),153907,1361
+2022-08-28,Seattle (King Co),505296,3095
+2022-08-29,Portland (Multnomah Co),154193,1363
+2022-08-29,Seattle (King Co),506279,3100
+2022-08-30,Portland (Multnomah Co),154354,1363
+2022-08-30,Seattle (King Co),506279,3100
+2022-08-31,Portland (Multnomah Co),154461,1366
+2022-08-31,Seattle (King Co),506946,3107
+2022-09-01,Portland (Multnomah Co),154556,1366
+2022-09-01,Seattle (King Co),506946,3107
+2022-09-02,Portland (Multnomah Co),154759,1368
+2022-09-02,Seattle (King Co),507719,3116
+2022-09-03,Portland (Multnomah Co),154759,1368
+2022-09-03,Seattle (King Co),507719,3116
+2022-09-03,Vancouver (BC),383054,4183
+2022-09-04,Portland (Multnomah Co),154759,1368
+2022-09-04,Seattle (King Co),507719,3116
+2022-09-05,Portland (Multnomah Co),154759,1368
+2022-09-05,Seattle (King Co),507719,3116
+2022-09-06,Portland (Multnomah Co),155093,1370
+2022-09-06,Seattle (King Co),508785,3121
+2022-09-07,Portland (Multnomah Co),155270,1372
+2022-09-07,Seattle (King Co),508850,3129
+2022-09-08,Portland (Multnomah Co),155390,1372
+2022-09-08,Seattle (King Co),508850,3129
+2022-09-09,Portland (Multnomah Co),155530,1373
+2022-09-09,Seattle (King Co),509770,3141
+2022-09-10,Portland (Multnomah Co),155530,1373
+2022-09-10,Seattle (King Co),509770,3141
+2022-09-10,Vancouver (BC),383628,4216
+2022-09-11,Portland (Multnomah Co),155530,1373
+2022-09-11,Seattle (King Co),509770,3141
+2022-09-12,Portland (Multnomah Co),155800,1374
+2022-09-12,Seattle (King Co),510571,3145
+2022-09-13,Portland (Multnomah Co),155938,1375
+2022-09-13,Seattle (King Co),510571,3145
+2022-09-14,Portland (Multnomah Co),156063,1378
+2022-09-14,Seattle (King Co),510571,3145
+2022-09-15,Portland (Multnomah Co),156063,1378
+2022-09-15,Seattle (King Co),510571,3145
+2022-09-16,Portland (Multnomah Co),156063,1378
+2022-09-16,Seattle (King Co),511941,3156
+2022-09-17,Portland (Multnomah Co),156063,1378
+2022-09-17,Seattle (King Co),511941,3156
+2022-09-17,Vancouver (BC),384266,4253
+2022-09-18,Portland (Multnomah Co),156063,1378
+2022-09-18,Seattle (King Co),511941,3156
+2022-09-19,Portland (Multnomah Co),156063,1378
+2022-09-19,Seattle (King Co),512882,3158
+2022-09-20,Portland (Multnomah Co),156063,1378
+2022-09-20,Seattle (King Co),512882,3158
+2022-09-21,Portland (Multnomah Co),157046,1381
+2022-09-21,Seattle (King Co),513524,3163
+2022-09-22,Portland (Multnomah Co),157046,1381
+2022-09-22,Seattle (King Co),513524,3163
+2022-09-23,Portland (Multnomah Co),157046,1381
+2022-09-23,Seattle (King Co),514345,3167
+2022-09-24,Portland (Multnomah Co),157046,1381
+2022-09-24,Seattle (King Co),514345,3167
+2022-09-24,Vancouver (BC),384900,4283
+2022-09-25,Portland (Multnomah Co),157046,1381
+2022-09-25,Seattle (King Co),514345,3167
+2022-09-26,Portland (Multnomah Co),157046,1381
+2022-09-26,Seattle (King Co),515393,3171
+2022-09-27,Portland (Multnomah Co),157046,1381
+2022-09-27,Seattle (King Co),515393,3171
+2022-09-28,Portland (Multnomah Co),157882,1383
+2022-09-28,Seattle (King Co),516072,3180
+2022-09-29,Portland (Multnomah Co),157882,1383
+2022-09-29,Seattle (King Co),516072,3180
+2022-09-30,Portland (Multnomah Co),157882,1383
+2022-09-30,Seattle (King Co),516937,3195
+2022-10-01,Portland (Multnomah Co),157882,1383
+2022-10-01,Seattle (King Co),516937,3195
+2022-10-01,Vancouver (BC),385599,4321
+2022-10-02,Portland (Multnomah Co),157882,1383
+2022-10-02,Seattle (King Co),516937,3195
+2022-10-03,Portland (Multnomah Co),157882,1383
+2022-10-03,Seattle (King Co),517819,3195
+2022-10-04,Portland (Multnomah Co),157882,1383
+2022-10-04,Seattle (King Co),518206,3201
+2022-10-05,Portland (Multnomah Co),158691,1385
+2022-10-05,Seattle (King Co),518355,3201
+2022-10-06,Portland (Multnomah Co),158691,1385
+2022-10-06,Seattle (King Co),518874,3210
+2022-10-07,Portland (Multnomah Co),158691,1385
+2022-10-07,Seattle (King Co),519034,3210
+2022-10-08,Portland (Multnomah Co),158691,1385
+2022-10-08,Seattle (King Co),519034,3210
+2022-10-08,Vancouver (BC),386293,4370
+2022-10-09,Portland (Multnomah Co),158691,1385
+2022-10-09,Seattle (King Co),519034,3210
+2022-10-10,Portland (Multnomah Co),158691,1385
+2022-10-10,Seattle (King Co),519682,3211
+2022-10-11,Portland (Multnomah Co),158691,1385
+2022-10-11,Seattle (King Co),519960,3219
+2022-10-12,Portland (Multnomah Co),159370,1389
+2022-10-12,Seattle (King Co),520115,3219
+2022-10-13,Portland (Multnomah Co),159370,1389
+2022-10-13,Seattle (King Co),520115,3219
+2022-10-14,Portland (Multnomah Co),159370,1389
+2022-10-14,Seattle (King Co),520688,3225
+2022-10-15,Portland (Multnomah Co),159370,1389
+2022-10-15,Seattle (King Co),520688,3225
+2022-10-15,Vancouver (BC),386920,4423
+2022-10-16,Portland (Multnomah Co),159370,1389
+2022-10-16,Seattle (King Co),520688,3225
+2022-10-17,Portland (Multnomah Co),159370,1389
+2022-10-17,Seattle (King Co),521117,3225
+2022-10-18,Portland (Multnomah Co),159370,1389
+2022-10-18,Seattle (King Co),521117,3225
+2022-10-19,Portland (Multnomah Co),160269,1392
+2022-10-19,Seattle (King Co),521622,3229
+2022-10-20,Portland (Multnomah Co),160269,1392
+2022-10-20,Seattle (King Co),521622,3229
+2022-10-21,Portland (Multnomah Co),160269,1392
+2022-10-21,Seattle (King Co),522156,3233
+2022-10-22,Portland (Multnomah Co),160269,1392
+2022-10-22,Seattle (King Co),522156,3233
+2022-10-22,Vancouver (BC),387451,4485
+2022-10-23,Portland (Multnomah Co),160269,1392
+2022-10-23,Seattle (King Co),522156,3233
+2022-10-24,Portland (Multnomah Co),160269,1392
+2022-10-24,Seattle (King Co),522612,3238
+2022-10-25,Portland (Multnomah Co),160269,1392
+2022-10-25,Seattle (King Co),522868,3249
+2022-10-26,Portland (Multnomah Co),160704,1394
+2022-10-26,Seattle (King Co),522970,3249
+2022-10-27,Portland (Multnomah Co),160704,1394
+2022-10-27,Seattle (King Co),523288,3259
+2022-10-28,Portland (Multnomah Co),160704,1394
+2022-10-28,Seattle (King Co),523288,3259
+2022-10-29,Portland (Multnomah Co),160704,1394
+2022-10-29,Seattle (King Co),523288,3259
+2022-10-29,Vancouver (BC),387936,4525
+2022-10-30,Portland (Multnomah Co),160704,1394
+2022-10-30,Seattle (King Co),523288,3259
+2022-10-31,Portland (Multnomah Co),160704,1394
+2022-10-31,Seattle (King Co),523887,3259
+2022-11-01,Portland (Multnomah Co),160704,1394
+2022-11-01,Seattle (King Co),524142,3257
+2022-11-02,Portland (Multnomah Co),161379,1399
+2022-11-02,Seattle (King Co),524175,3257
+2022-11-03,Portland (Multnomah Co),161379,1399
+2022-11-03,Seattle (King Co),524537,3256
+2022-11-04,Portland (Multnomah Co),161379,1399
+2022-11-04,Seattle (King Co),524537,3256
+2022-11-05,Portland (Multnomah Co),161379,1399
+2022-11-05,Seattle (King Co),524537,3256
+2022-11-05,Vancouver (BC),388497,4552
+2022-11-06,Portland (Multnomah Co),161379,1399
+2022-11-06,Seattle (King Co),524537,3256
+2022-11-07,Portland (Multnomah Co),161379,1399
+2022-11-07,Seattle (King Co),524537,3256
+2022-11-08,Portland (Multnomah Co),161379,1399
+2022-11-08,Seattle (King Co),525315,3264
+2022-11-09,Portland (Multnomah Co),162160,1399
+2022-11-09,Seattle (King Co),525420,3270
+2022-11-10,Portland (Multnomah Co),162160,1399
+2022-11-10,Seattle (King Co),525738,3270
+2022-11-11,Portland (Multnomah Co),162160,1399
+2022-11-11,Seattle (King Co),525738,3270
+2022-11-12,Portland (Multnomah Co),162160,1399
+2022-11-12,Seattle (King Co),525738,3270
+2022-11-12,Vancouver (BC),388984,4607
+2022-11-13,Portland (Multnomah Co),162160,1399
+2022-11-13,Seattle (King Co),525738,3270
+2022-11-14,Portland (Multnomah Co),162160,1399
+2022-11-14,Seattle (King Co),525738,3270
+2022-11-15,Portland (Multnomah Co),162160,1399
+2022-11-15,Seattle (King Co),526536,3271
+2022-11-16,Portland (Multnomah Co),162939,1400
+2022-11-16,Seattle (King Co),526637,3284
+2022-11-17,Portland (Multnomah Co),162939,1400
+2022-11-17,Seattle (King Co),527055,3284
+2022-11-18,Portland (Multnomah Co),162939,1400
+2022-11-18,Seattle (King Co),527055,3284
+2022-11-19,Portland (Multnomah Co),162939,1400
+2022-11-19,Seattle (King Co),527055,3284
+2022-11-19,Vancouver (BC),389479,4642
+2022-11-20,Portland (Multnomah Co),162939,1400
+2022-11-20,Seattle (King Co),527055,3284
+2022-11-21,Portland (Multnomah Co),162939,1400
+2022-11-21,Seattle (King Co),527055,3284
+2022-11-22,Portland (Multnomah Co),162939,1400
+2022-11-22,Seattle (King Co),528087,3284
+2022-11-23,Portland (Multnomah Co),163656,1407
+2022-11-23,Seattle (King Co),528391,3295
+2022-11-24,Portland (Multnomah Co),163656,1407
+2022-11-24,Seattle (King Co),528391,3295
+2022-11-25,Portland (Multnomah Co),163656,1407
+2022-11-25,Seattle (King Co),528391,3295
+2022-11-26,Portland (Multnomah Co),163656,1407
+2022-11-26,Seattle (King Co),528391,3295
+2022-11-26,Vancouver (BC),390087,4680
+2022-11-27,Portland (Multnomah Co),163656,1407
+2022-11-27,Seattle (King Co),528391,3295
+2022-11-28,Portland (Multnomah Co),163656,1407
+2022-11-28,Seattle (King Co),528391,3295
+2022-11-29,Portland (Multnomah Co),163656,1407
+2022-11-29,Seattle (King Co),529784,3295
+2022-11-30,Portland (Multnomah Co),164419,1412
+2022-11-30,Seattle (King Co),529948,3295
+2022-12-01,Portland (Multnomah Co),164419,1412
+2022-12-01,Seattle (King Co),530387,3296
+2022-12-02,Portland (Multnomah Co),164419,1412
+2022-12-02,Seattle (King Co),530387,3296
+2022-12-03,Portland (Multnomah Co),164419,1412
+2022-12-03,Seattle (King Co),530387,3296
+2022-12-03,Vancouver (BC),390626,4715
+2022-12-04,Portland (Multnomah Co),164419,1412
+2022-12-04,Seattle (King Co),530387,3296
+2022-12-05,Portland (Multnomah Co),164419,1412
+2022-12-05,Seattle (King Co),530387,3296
+2022-12-06,Portland (Multnomah Co),164419,1412
+2022-12-06,Seattle (King Co),531549,3307
+2022-12-07,Portland (Multnomah Co),165352,1418
+2022-12-07,Seattle (King Co),531675,3315
+2022-12-08,Portland (Multnomah Co),165352,1418
+2022-12-08,Seattle (King Co),532184,3315
+2022-12-09,Portland (Multnomah Co),165352,1418
+2022-12-09,Seattle (King Co),532184,3315
+2022-12-10,Portland (Multnomah Co),165352,1418
+2022-12-10,Seattle (King Co),532184,3315
+2022-12-10,Vancouver (BC),391285,4760
+2022-12-11,Portland (Multnomah Co),165352,1418
+2022-12-11,Seattle (King Co),532184,3315
+2022-12-12,Portland (Multnomah Co),165352,1418
+2022-12-12,Seattle (King Co),532184,3315
+2022-12-13,Portland (Multnomah Co),165352,1418
+2022-12-13,Seattle (King Co),533396,3329
+2022-12-14,Portland (Multnomah Co),166189,1424
+2022-12-14,Seattle (King Co),533537,3339
+2022-12-15,Portland (Multnomah Co),166189,1424
+2022-12-15,Seattle (King Co),533972,3339
+2022-12-16,Portland (Multnomah Co),166189,1424
+2022-12-16,Seattle (King Co),533972,3339
+2022-12-17,Portland (Multnomah Co),166189,1424
+2022-12-17,Seattle (King Co),533972,3339
+2022-12-17,Vancouver (BC),391897,4806
+2022-12-18,Portland (Multnomah Co),166189,1424
+2022-12-18,Seattle (King Co),533972,3339
+2022-12-19,Portland (Multnomah Co),166189,1424
+2022-12-19,Seattle (King Co),533972,3339
+2022-12-20,Portland (Multnomah Co),166189,1424
+2022-12-20,Seattle (King Co),535172,3348
+2022-12-21,Portland (Multnomah Co),166857,1426
+2022-12-21,Seattle (King Co),535280,3361
+2022-12-22,Portland (Multnomah Co),166857,1426
+2022-12-22,Seattle (King Co),535597,3361
+2022-12-23,Portland (Multnomah Co),166857,1426
+2022-12-23,Seattle (King Co),535597,3361
+2022-12-24,Portland (Multnomah Co),166857,1426
+2022-12-24,Seattle (King Co),535597,3361
+2022-12-24,Vancouver (BC),392453,4883
+2022-12-25,Portland (Multnomah Co),166857,1426
+2022-12-25,Seattle (King Co),535597,3361
+2022-12-26,Portland (Multnomah Co),166857,1426
+2022-12-26,Seattle (King Co),535597,3361
+2022-12-27,Portland (Multnomah Co),166857,1426
+2022-12-27,Seattle (King Co),536456,3361
+2022-12-28,Portland (Multnomah Co),167276,1427
+2022-12-28,Seattle (King Co),536664,3370
+2022-12-29,Portland (Multnomah Co),167276,1427
+2022-12-29,Seattle (King Co),537124,3370
+2022-12-30,Portland (Multnomah Co),167276,1427
+2022-12-30,Seattle (King Co),537124,3370
+2022-12-31,Portland (Multnomah Co),167276,1427
+2022-12-31,Seattle (King Co),537124,3370
+2022-12-31,Vancouver (BC),393145,4896
+2023-01-01,Portland (Multnomah Co),167276,1427
+2023-01-01,Seattle (King Co),537124,3370
+2023-01-02,Portland (Multnomah Co),167276,1427
+2023-01-02,Seattle (King Co),537124,3370
+2023-01-03,Portland (Multnomah Co),167276,1427
+2023-01-03,Seattle (King Co),538029,3396
+2023-01-04,Portland (Multnomah Co),167688,1434
+2023-01-04,Seattle (King Co),538312,3396
+2023-01-05,Portland (Multnomah Co),167688,1434
+2023-01-05,Seattle (King Co),538784,3402
+2023-01-06,Portland (Multnomah Co),167688,1434
+2023-01-06,Seattle (King Co),538784,3402
+2023-01-07,Portland (Multnomah Co),167688,1434
+2023-01-07,Seattle (King Co),538784,3402
+2023-01-07,Vancouver (BC),393804,4961
+2023-01-08,Portland (Multnomah Co),167688,1434
+2023-01-08,Seattle (King Co),538784,3402
+2023-01-09,Portland (Multnomah Co),167688,1434
+2023-01-09,Seattle (King Co),538784,3402
+2023-01-10,Portland (Multnomah Co),167688,1434
+2023-01-10,Seattle (King Co),540003,3407
+2023-01-11,Portland (Multnomah Co),168098,1441
+2023-01-11,Seattle (King Co),540124,3407
+2023-01-12,Portland (Multnomah Co),168098,1441
+2023-01-12,Seattle (King Co),540124,3407
+2023-01-13,Portland (Multnomah Co),168098,1441
+2023-01-13,Seattle (King Co),540856,3426
+2023-01-14,Portland (Multnomah Co),168098,1441
+2023-01-14,Seattle (King Co),540856,3426
+2023-01-14,Vancouver (BC),394366,5007
+2023-01-15,Portland (Multnomah Co),168098,1441
+2023-01-15,Seattle (King Co),540856,3426
+2023-01-16,Portland (Multnomah Co),168098,1441
+2023-01-16,Seattle (King Co),540856,3426
+2023-01-17,Portland (Multnomah Co),168098,1441
+2023-01-17,Seattle (King Co),541274,3432
+2023-01-18,Portland (Multnomah Co),168508,1451
+2023-01-18,Seattle (King Co),541431,3432
+2023-01-19,Portland (Multnomah Co),168508,1451
+2023-01-19,Seattle (King Co),541677,3444
+2023-01-20,Portland (Multnomah Co),168508,1451
+2023-01-20,Seattle (King Co),541677,3444
+2023-01-21,Portland (Multnomah Co),168508,1451
+2023-01-21,Seattle (King Co),541677,3444
+2023-01-21,Vancouver (BC),394774,5061
+2023-01-22,Portland (Multnomah Co),168508,1451
+2023-01-22,Seattle (King Co),541677,3444
+2023-01-23,Portland (Multnomah Co),168508,1451
+2023-01-23,Seattle (King Co),541677,3444
+2023-01-24,Portland (Multnomah Co),168508,1451
+2023-01-24,Seattle (King Co),541677,3444
+2023-01-25,Portland (Multnomah Co),168903,1453
+2023-01-25,Seattle (King Co),543139,3471
+2023-01-26,Portland (Multnomah Co),168903,1453
+2023-01-26,Seattle (King Co),543139,3471
+2023-01-27,Portland (Multnomah Co),168903,1453
+2023-01-27,Seattle (King Co),543139,3471
+2023-01-28,Portland (Multnomah Co),168903,1453
+2023-01-28,Seattle (King Co),543139,3471
+2023-01-28,Vancouver (BC),395070,5106
+2023-01-29,Portland (Multnomah Co),168903,1453
+2023-01-29,Seattle (King Co),543139,3471
+2023-01-30,Portland (Multnomah Co),168903,1453
+2023-01-30,Seattle (King Co),543139,3471
+2023-01-31,Portland (Multnomah Co),168903,1453
+2023-01-31,Seattle (King Co),543139,3471
+2023-02-01,Portland (Multnomah Co),169400,1459
+2023-02-01,Seattle (King Co),544725,3475
+2023-02-02,Portland (Multnomah Co),169400,1459
+2023-02-02,Seattle (King Co),544725,3475
+2023-02-03,Portland (Multnomah Co),169400,1459
+2023-02-03,Seattle (King Co),544725,3475
+2023-02-04,Portland (Multnomah Co),169400,1459
+2023-02-04,Seattle (King Co),544725,3475
+2023-02-04,Vancouver (BC),395367,5139
+2023-02-05,Portland (Multnomah Co),169400,1459
+2023-02-05,Seattle (King Co),544725,3475
+2023-02-06,Portland (Multnomah Co),169400,1459
+2023-02-06,Seattle (King Co),544725,3475
+2023-02-07,Portland (Multnomah Co),169400,1459
+2023-02-07,Seattle (King Co),544725,3475
+2023-02-08,Portland (Multnomah Co),169880,1462
+2023-02-08,Seattle (King Co),546353,3494
+2023-02-09,Portland (Multnomah Co),169880,1462
+2023-02-09,Seattle (King Co),546353,3494
+2023-02-10,Portland (Multnomah Co),169880,1462
+2023-02-10,Seattle (King Co),546353,3494
+2023-02-11,Portland (Multnomah Co),169880,1462
+2023-02-11,Seattle (King Co),546353,3494
+2023-02-11,Vancouver (BC),395709,5157
+2023-02-12,Portland (Multnomah Co),169880,1462
+2023-02-12,Seattle (King Co),546353,3494
+2023-02-13,Portland (Multnomah Co),169880,1462
+2023-02-13,Seattle (King Co),546353,3494
+2023-02-14,Portland (Multnomah Co),169880,1462
+2023-02-14,Seattle (King Co),546353,3494
+2023-02-15,Portland (Multnomah Co),170377,1471
+2023-02-15,Seattle (King Co),547674,3511
+2023-02-16,Portland (Multnomah Co),170377,1471
+2023-02-16,Seattle (King Co),547674,3511
+2023-02-17,Portland (Multnomah Co),170377,1471
+2023-02-17,Seattle (King Co),547674,3511
+2023-02-18,Portland (Multnomah Co),170377,1471
+2023-02-18,Seattle (King Co),547674,3511
+2023-02-18,Vancouver (BC),396066,5192
+2023-02-19,Portland (Multnomah Co),170377,1471
+2023-02-19,Seattle (King Co),547674,3511
+2023-02-20,Portland (Multnomah Co),170377,1471
+2023-02-20,Seattle (King Co),547674,3511
+2023-02-21,Portland (Multnomah Co),170377,1471
+2023-02-21,Seattle (King Co),547674,3511
+2023-02-22,Portland (Multnomah Co),170832,1478
+2023-02-22,Seattle (King Co),548843,3520
+2023-02-23,Portland (Multnomah Co),170832,1478
+2023-02-23,Seattle (King Co),548843,3520
+2023-02-24,Portland (Multnomah Co),170832,1478
+2023-02-24,Seattle (King Co),548843,3520
+2023-02-25,Portland (Multnomah Co),170832,1478
+2023-02-25,Seattle (King Co),548843,3520
+2023-02-25,Vancouver (BC),396472,5218
+2023-02-26,Portland (Multnomah Co),170832,1478
+2023-02-26,Seattle (King Co),548843,3520
+2023-02-27,Portland (Multnomah Co),170832,1478
+2023-02-27,Seattle (King Co),548843,3520
+2023-02-28,Portland (Multnomah Co),170832,1478
+2023-02-28,Seattle (King Co),548843,3520
+2023-03-01,Portland (Multnomah Co),171161,1480
+2023-03-01,Seattle (King Co),549958,3532
+2023-03-02,Portland (Multnomah Co),171161,1480
+2023-03-02,Seattle (King Co),549958,3532
+2023-03-03,Portland (Multnomah Co),171161,1480
+2023-03-03,Seattle (King Co),549958,3532
+2023-03-04,Portland (Multnomah Co),171161,1480
+2023-03-04,Seattle (King Co),549958,3532
+2023-03-04,Vancouver (BC),396817,5249
+2023-03-05,Portland (Multnomah Co),171161,1480
+2023-03-05,Seattle (King Co),549958,3532
+2023-03-06,Portland (Multnomah Co),171161,1480
+2023-03-06,Seattle (King Co),549958,3532
+2023-03-07,Portland (Multnomah Co),171161,1480
+2023-03-07,Seattle (King Co),549958,3532
+2023-03-08,Portland (Multnomah Co),171526,1480
+2023-03-08,Seattle (King Co),551112,3548
+2023-03-09,Portland (Multnomah Co),171526,1480
+2023-03-09,Seattle (King Co),551112,3548
+2023-03-10,Portland (Multnomah Co),171526,1480
+2023-03-10,Seattle (King Co),551112,3548
+2023-03-11,Portland (Multnomah Co),171526,1480
+2023-03-11,Seattle (King Co),551112,3548
+2023-03-11,Vancouver (BC),397189,5278
+2023-03-12,Portland (Multnomah Co),171526,1480
+2023-03-12,Seattle (King Co),551112,3548
+2023-03-13,Portland (Multnomah Co),171526,1480
+2023-03-13,Seattle (King Co),551112,3548
+2023-03-14,Portland (Multnomah Co),171526,1480
+2023-03-14,Seattle (King Co),551112,3548
+2023-03-15,Portland (Multnomah Co),171865,1484
+2023-03-15,Seattle (King Co),552227,3555
+2023-03-16,Portland (Multnomah Co),171865,1484
+2023-03-16,Seattle (King Co),552227,3555
+2023-03-17,Portland (Multnomah Co),171865,1484
+2023-03-17,Seattle (King Co),552227,3555
+2023-03-18,Portland (Multnomah Co),171865,1484
+2023-03-18,Seattle (King Co),552227,3555
+2023-03-18,Vancouver (BC),397593,5308
+2023-03-19,Portland (Multnomah Co),171865,1484
+2023-03-19,Seattle (King Co),552227,3555
+2023-03-20,Portland (Multnomah Co),171865,1484
+2023-03-20,Seattle (King Co),552227,3555
+2023-03-21,Portland (Multnomah Co),171865,1484
+2023-03-21,Seattle (King Co),552227,3555
+2023-03-22,Portland (Multnomah Co),172262,1487
+2023-03-22,Seattle (King Co),553261,3563
+2023-03-23,Portland (Multnomah Co),172262,1487
+2023-03-23,Seattle (King Co),553261,3563
+2023-03-25,Vancouver (BC),398050,5339
+2023-04-01,Vancouver (BC),398510,5371
+2023-04-08,Vancouver (BC),398975,5411
+2023-04-15,Vancouver (BC),399494,5430
+2023-04-22,Vancouver (BC),400025,5476
+2023-04-29,Vancouver (BC),400660,5520
+2023-05-06,Vancouver (BC),401126,5555
+2023-05-13,Vancouver (BC),401497,5602
+2023-05-20,Vancouver (BC),401814,5652
+2023-05-27,Vancouver (BC),402077,5663
+2023-06-03,Vancouver (BC),402285,5701
+2023-06-10,Vancouver (BC),402468,5730
+2023-06-17,Vancouver (BC),402639,5749
+2023-06-24,Vancouver (BC),402804,5769
+2023-07-01,Vancouver (BC),402989,5783
+2023-07-08,Vancouver (BC),403162,5795
+2023-07-15,Vancouver (BC),403306,5800
+2023-07-22,Vancouver (BC),403453,5809
+2023-07-29,Vancouver (BC),403605,5816
+2023-08-05,Vancouver (BC),403741,5833
+2023-08-12,Vancouver (BC),403874,5841
+2023-08-19,Vancouver (BC),404105,5857
+2023-08-26,Vancouver (BC),404471,5867
+2023-09-02,Vancouver (BC),404923,5886
+2023-09-09,Vancouver (BC),405348,5910
+2023-09-16,Vancouver (BC),405987,5943
+2023-09-23,Vancouver (BC),406735,5973
+2023-09-30,Vancouver (BC),407621,6014
+2023-10-07,Vancouver (BC),408442,6069
+2023-10-14,Vancouver (BC),409181,6134
+2023-10-21,Vancouver (BC),409754,6204
+2023-10-28,Vancouver (BC),410214,6255
+2023-11-04,Vancouver (BC),410754,6302
+2023-11-11,Vancouver (BC),411232,6346
+2023-11-18,Vancouver (BC),411595,6385
+2023-11-25,Vancouver (BC),411977,6409
+2023-12-02,Vancouver (BC),412334,6449
+2023-12-09,Vancouver (BC),412753,6449
+2023-12-16,Vancouver (BC),412814,6476
+2023-12-23,Vancouver (BC),413170,6501
+2023-12-30,Vancouver (BC),413594,6527
+2024-01-06,Vancouver (BC),414104,6551
+2024-01-13,Vancouver (BC),414652,6580
+2024-01-20,Vancouver (BC),415075,6612
+2024-01-27,Vancouver (BC),415578,6642
+2024-02-03,Vancouver (BC),416020,6671
+2024-02-10,Vancouver (BC),416414,6694
+2024-02-17,Vancouver (BC),416814,6722
+2024-02-24,Vancouver (BC),417280,6750
+2024-03-02,Vancouver (BC),417717,6790
+2024-03-09,Vancouver (BC),418187,6799
+2024-03-16,Vancouver (BC),418581,6822
+2024-03-23,Vancouver (BC),418905,6842
+2024-03-30,Vancouver (BC),419202,6868
+2024-04-06,Vancouver (BC),419544,6897
+2024-04-13,Vancouver (BC),419796,6917
+2024-04-20,Vancouver (BC),420049,6932
+2024-04-27,Vancouver (BC),420303,6953
+2024-05-04,Vancouver (BC),420637,6976
+2024-05-11,Vancouver (BC),421027,7000
+2024-05-18,Vancouver (BC),421372,7025
+2024-05-25,Vancouver (BC),421680,7040
+2024-06-01,Vancouver (BC),421680,7068
+2024-06-08,Vancouver (BC),421680,7090
+2024-06-15,Vancouver (BC),421680,7113
+2024-06-22,Vancouver (BC),421680,7149
+2024-06-29,Vancouver (BC),421680,7170
+2024-07-06,Vancouver (BC),421680,7199
+2024-07-13,Vancouver (BC),421680,7228
+2024-07-20,Vancouver (BC),421680,7255
+2024-07-27,Vancouver (BC),421680,7274
+2024-08-03,Vancouver (BC),421680,7274
